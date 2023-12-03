@@ -1,0 +1,51 @@
+[2023-12-03 23:03:33,056] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: water_polution.model_preparation manual__2023-12-03T17:38:00.239033+00:00 [queued]>
+[2023-12-03 23:03:33,062] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: water_polution.model_preparation manual__2023-12-03T17:38:00.239033+00:00 [queued]>
+[2023-12-03 23:03:33,062] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2023-12-03 23:03:33,062] {taskinstance.py:1357} INFO - Starting attempt 3 of 6
+[2023-12-03 23:03:33,062] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2023-12-03 23:03:33,071] {taskinstance.py:1377} INFO - Executing <Task(BashOperator): model_preparation> on 2023-12-03 17:38:00.239033+00:00
+[2023-12-03 23:03:33,073] {standard_task_runner.py:52} INFO - Started process 22155 to run task
+[2023-12-03 23:03:33,078] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'water_polution', 'model_preparation', 'manual__2023-12-03T17:38:00.239033+00:00', '--job-id', '15', '--raw', '--subdir', 'DAGS_FOLDER/water_polution.py', '--cfg-path', '/tmp/tmpfxavsr_o', '--error-file', '/tmp/tmpwzprmzyd']
+[2023-12-03 23:03:33,079] {standard_task_runner.py:80} INFO - Job 15: Subtask model_preparation
+[2023-12-03 23:03:33,132] {task_command.py:369} INFO - Running <TaskInstance: water_polution.model_preparation manual__2023-12-03T17:38:00.239033+00:00 [running]> on host MLops.myguest.virtualbox.org
+[2023-12-03 23:03:33,190] {taskinstance.py:1569} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=Admin
+AIRFLOW_CTX_DAG_ID=water_polution
+AIRFLOW_CTX_TASK_ID=model_preparation
+AIRFLOW_CTX_EXECUTION_DATE=2023-12-03T17:38:00.239033+00:00
+AIRFLOW_CTX_TRY_NUMBER=3
+AIRFLOW_CTX_DAG_RUN_ID=manual__2023-12-03T17:38:00.239033+00:00
+[2023-12-03 23:03:33,191] {subprocess.py:62} INFO - Tmp dir root location: 
+ /tmp
+[2023-12-03 23:03:33,194] {subprocess.py:74} INFO - Running command: ['bash', '-c', 'python3 /home/antosha/project/scripts/model_preparation.py']
+[2023-12-03 23:03:33,210] {subprocess.py:85} INFO - Output:
+[2023-12-03 23:03:33,961] {subprocess.py:92} INFO - Traceback (most recent call last):
+[2023-12-03 23:03:33,961] {subprocess.py:92} INFO -   File "/home/antosha/project/scripts/model_preparation.py", line 12, in <module>
+[2023-12-03 23:03:33,961] {subprocess.py:92} INFO -     model.fit(X_train, y_train)
+[2023-12-03 23:03:33,961] {subprocess.py:92} INFO -   File "/home/antosha/venvs/practice_3/lib/python3.10/site-packages/sklearn/base.py", line 1152, in wrapper
+[2023-12-03 23:03:33,962] {subprocess.py:92} INFO -     return fit_method(estimator, *args, **kwargs)
+[2023-12-03 23:03:33,962] {subprocess.py:92} INFO -   File "/home/antosha/venvs/practice_3/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py", line 1208, in fit
+[2023-12-03 23:03:33,962] {subprocess.py:92} INFO -     X, y = self._validate_data(
+[2023-12-03 23:03:33,962] {subprocess.py:92} INFO -   File "/home/antosha/venvs/practice_3/lib/python3.10/site-packages/sklearn/base.py", line 622, in _validate_data
+[2023-12-03 23:03:33,962] {subprocess.py:92} INFO -     X, y = check_X_y(X, y, **check_params)
+[2023-12-03 23:03:33,962] {subprocess.py:92} INFO -   File "/home/antosha/venvs/practice_3/lib/python3.10/site-packages/sklearn/utils/validation.py", line 1146, in check_X_y
+[2023-12-03 23:03:33,962] {subprocess.py:92} INFO -     X = check_array(
+[2023-12-03 23:03:33,962] {subprocess.py:92} INFO -   File "/home/antosha/venvs/practice_3/lib/python3.10/site-packages/sklearn/utils/validation.py", line 915, in check_array
+[2023-12-03 23:03:33,963] {subprocess.py:92} INFO -     array = _asarray_with_order(array, order=order, dtype=dtype, xp=xp)
+[2023-12-03 23:03:33,963] {subprocess.py:92} INFO -   File "/home/antosha/venvs/practice_3/lib/python3.10/site-packages/sklearn/utils/_array_api.py", line 380, in _asarray_with_order
+[2023-12-03 23:03:33,963] {subprocess.py:92} INFO -     array = numpy.asarray(array, order=order, dtype=dtype)
+[2023-12-03 23:03:33,963] {subprocess.py:92} INFO -   File "/home/antosha/venvs/practice_3/lib/python3.10/site-packages/pandas/core/generic.py", line 2084, in __array__
+[2023-12-03 23:03:33,963] {subprocess.py:92} INFO -     arr = np.asarray(values, dtype=dtype)
+[2023-12-03 23:03:33,963] {subprocess.py:92} INFO - ValueError: could not convert string to float: 'FRHR295'
+[2023-12-03 23:03:34,075] {subprocess.py:96} INFO - Command exited with return code 1
+[2023-12-03 23:03:34,081] {taskinstance.py:1889} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/operators/bash.py", line 194, in execute
+    raise AirflowException(
+airflow.exceptions.AirflowException: Bash command failed. The command returned a non-zero exit code 1.
+[2023-12-03 23:03:34,083] {taskinstance.py:1395} INFO - Marking task as UP_FOR_RETRY. dag_id=water_polution, task_id=model_preparation, execution_date=20231203T173800, start_date=20231203T180333, end_date=20231203T180334
+[2023-12-03 23:03:34,102] {standard_task_runner.py:92} ERROR - Failed to execute job 15 for task model_preparation (Bash command failed. The command returned a non-zero exit code 1.; 22155)
+[2023-12-03 23:03:34,146] {local_task_job.py:156} INFO - Task exited with return code 1
+[2023-12-03 23:03:34,160] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

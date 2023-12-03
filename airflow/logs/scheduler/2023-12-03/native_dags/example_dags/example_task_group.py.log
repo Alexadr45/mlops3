@@ -1,0 +1,158 @@
+[2023-12-03 21:24:13,919] {processor.py:153} INFO - Started process (PID=5248) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:24:13,919] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-12-03 21:24:13,920] {logging_mixin.py:115} INFO - [2023-12-03 21:24:13,920] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:24:13,925] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:24:13,966] {logging_mixin.py:115} INFO - [2023-12-03 21:24:13,966] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_task_group
+[2023-12-03 21:24:13,972] {logging_mixin.py:115} INFO - [2023-12-03 21:24:13,972] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_task_group
+[2023-12-03 21:24:13,976] {logging_mixin.py:115} INFO - [2023-12-03 21:24:13,976] {manager.py:508} INFO - Created Permission View: can read on DAG:example_task_group
+[2023-12-03 21:24:13,976] {logging_mixin.py:115} INFO - [2023-12-03 21:24:13,976] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:24:13,981] {logging_mixin.py:115} INFO - [2023-12-03 21:24:13,981] {dag.py:2390} INFO - Creating ORM DAG for example_task_group
+[2023-12-03 21:24:13,989] {logging_mixin.py:115} INFO - [2023-12-03 21:24:13,989] {dag.py:2915} INFO - Setting next_dagrun for example_task_group to 2023-12-02T16:24:13.989254+00:00, run_after=2023-12-03T16:24:13.989254+00:00
+[2023-12-03 21:24:13,998] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.082 seconds
+[2023-12-03 21:24:44,705] {processor.py:153} INFO - Started process (PID=5286) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:24:44,705] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-12-03 21:24:44,706] {logging_mixin.py:115} INFO - [2023-12-03 21:24:44,706] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:24:44,711] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:24:44,724] {logging_mixin.py:115} INFO - [2023-12-03 21:24:44,724] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:24:44,737] {logging_mixin.py:115} INFO - [2023-12-03 21:24:44,737] {dag.py:2915} INFO - Setting next_dagrun for example_task_group to 2023-12-02T16:24:44.736931+00:00, run_after=2023-12-03T16:24:44.736931+00:00
+[2023-12-03 21:24:44,744] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.042 seconds
+[2023-12-03 21:25:19,535] {processor.py:153} INFO - Started process (PID=5332) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:25:19,535] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-12-03 21:25:19,536] {logging_mixin.py:115} INFO - [2023-12-03 21:25:19,536] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:25:19,541] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:25:19,554] {logging_mixin.py:115} INFO - [2023-12-03 21:25:19,554] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:25:19,567] {logging_mixin.py:115} INFO - [2023-12-03 21:25:19,567] {dag.py:2915} INFO - Setting next_dagrun for example_task_group to 2023-12-02T16:25:19.566911+00:00, run_after=2023-12-03T16:25:19.566911+00:00
+[2023-12-03 21:25:19,574] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.042 seconds
+[2023-12-03 21:25:50,303] {processor.py:153} INFO - Started process (PID=5366) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:25:50,304] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-12-03 21:25:50,304] {logging_mixin.py:115} INFO - [2023-12-03 21:25:50,304] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:25:50,309] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:25:50,322] {logging_mixin.py:115} INFO - [2023-12-03 21:25:50,322] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:25:50,335] {logging_mixin.py:115} INFO - [2023-12-03 21:25:50,335] {dag.py:2915} INFO - Setting next_dagrun for example_task_group to 2023-12-02T16:25:50.334823+00:00, run_after=2023-12-03T16:25:50.334823+00:00
+[2023-12-03 21:25:50,342] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.041 seconds
+[2023-12-03 21:26:23,904] {processor.py:153} INFO - Started process (PID=5400) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:26:23,905] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-12-03 21:26:23,905] {logging_mixin.py:115} INFO - [2023-12-03 21:26:23,905] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:26:23,911] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:26:23,923] {logging_mixin.py:115} INFO - [2023-12-03 21:26:23,923] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:26:23,936] {logging_mixin.py:115} INFO - [2023-12-03 21:26:23,936] {dag.py:2915} INFO - Setting next_dagrun for example_task_group to 2023-12-02T16:26:23.935806+00:00, run_after=2023-12-03T16:26:23.935806+00:00
+[2023-12-03 21:26:23,943] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.041 seconds
+[2023-12-03 21:26:55,720] {processor.py:153} INFO - Started process (PID=5450) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:26:55,721] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-12-03 21:26:55,721] {logging_mixin.py:115} INFO - [2023-12-03 21:26:55,721] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:26:55,727] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:26:55,740] {logging_mixin.py:115} INFO - [2023-12-03 21:26:55,740] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:26:55,753] {logging_mixin.py:115} INFO - [2023-12-03 21:26:55,753] {dag.py:2915} INFO - Setting next_dagrun for example_task_group to 2023-12-02T16:26:55.752992+00:00, run_after=2023-12-03T16:26:55.752992+00:00
+[2023-12-03 21:26:55,761] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.043 seconds
+[2023-12-03 21:27:27,936] {processor.py:153} INFO - Started process (PID=5484) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:27:27,937] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-12-03 21:27:27,937] {logging_mixin.py:115} INFO - [2023-12-03 21:27:27,937] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:27:27,943] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:27:27,955] {logging_mixin.py:115} INFO - [2023-12-03 21:27:27,955] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:27:27,968] {logging_mixin.py:115} INFO - [2023-12-03 21:27:27,968] {dag.py:2915} INFO - Setting next_dagrun for example_task_group to 2023-12-02T16:27:27.967877+00:00, run_after=2023-12-03T16:27:27.967877+00:00
+[2023-12-03 21:27:27,979] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.045 seconds
+[2023-12-03 21:28:02,072] {processor.py:153} INFO - Started process (PID=5553) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:28:02,073] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-12-03 21:28:02,073] {logging_mixin.py:115} INFO - [2023-12-03 21:28:02,073] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:28:02,080] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:28:02,093] {logging_mixin.py:115} INFO - [2023-12-03 21:28:02,092] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:28:02,106] {logging_mixin.py:115} INFO - [2023-12-03 21:28:02,105] {dag.py:2915} INFO - Setting next_dagrun for example_task_group to 2023-12-02T16:28:02.105684+00:00, run_after=2023-12-03T16:28:02.105684+00:00
+[2023-12-03 21:28:02,113] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.043 seconds
+[2023-12-03 21:28:34,585] {processor.py:153} INFO - Started process (PID=5589) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:28:34,585] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-12-03 21:28:34,585] {logging_mixin.py:115} INFO - [2023-12-03 21:28:34,585] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:28:34,591] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:28:34,604] {logging_mixin.py:115} INFO - [2023-12-03 21:28:34,604] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:28:34,616] {logging_mixin.py:115} INFO - [2023-12-03 21:28:34,616] {dag.py:2915} INFO - Setting next_dagrun for example_task_group to 2023-12-02T16:28:34.616357+00:00, run_after=2023-12-03T16:28:34.616357+00:00
+[2023-12-03 21:28:34,624] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.041 seconds
+[2023-12-03 21:29:07,229] {processor.py:153} INFO - Started process (PID=5629) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:29:07,229] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-12-03 21:29:07,230] {logging_mixin.py:115} INFO - [2023-12-03 21:29:07,230] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:29:07,236] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:29:07,248] {logging_mixin.py:115} INFO - [2023-12-03 21:29:07,248] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:29:07,261] {logging_mixin.py:115} INFO - [2023-12-03 21:29:07,261] {dag.py:2915} INFO - Setting next_dagrun for example_task_group to 2023-12-02T16:29:07.261648+00:00, run_after=2023-12-03T16:29:07.261648+00:00
+[2023-12-03 21:29:07,269] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.043 seconds
+[2023-12-03 21:29:39,860] {processor.py:153} INFO - Started process (PID=5668) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:29:39,860] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-12-03 21:29:39,861] {logging_mixin.py:115} INFO - [2023-12-03 21:29:39,861] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:29:39,867] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:29:39,880] {logging_mixin.py:115} INFO - [2023-12-03 21:29:39,880] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:29:39,893] {logging_mixin.py:115} INFO - [2023-12-03 21:29:39,893] {dag.py:2915} INFO - Setting next_dagrun for example_task_group to 2023-12-02T16:29:39.892893+00:00, run_after=2023-12-03T16:29:39.892893+00:00
+[2023-12-03 21:29:39,901] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.043 seconds
+[2023-12-03 21:30:11,769] {processor.py:153} INFO - Started process (PID=5707) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:30:11,769] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-12-03 21:30:11,770] {logging_mixin.py:115} INFO - [2023-12-03 21:30:11,770] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:30:11,776] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:30:11,788] {logging_mixin.py:115} INFO - [2023-12-03 21:30:11,788] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:30:11,801] {logging_mixin.py:115} INFO - [2023-12-03 21:30:11,801] {dag.py:2915} INFO - Setting next_dagrun for example_task_group to 2023-12-02T16:30:11.801337+00:00, run_after=2023-12-03T16:30:11.801337+00:00
+[2023-12-03 21:30:11,809] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.042 seconds
+[2023-12-03 21:30:43,968] {processor.py:153} INFO - Started process (PID=5750) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:30:43,968] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-12-03 21:30:43,969] {logging_mixin.py:115} INFO - [2023-12-03 21:30:43,969] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:30:43,975] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:30:43,993] {logging_mixin.py:115} INFO - [2023-12-03 21:30:43,992] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:30:44,006] {logging_mixin.py:115} INFO - [2023-12-03 21:30:44,006] {dag.py:2915} INFO - Setting next_dagrun for example_task_group to 2023-12-02T16:30:44.006639+00:00, run_after=2023-12-03T16:30:44.006639+00:00
+[2023-12-03 21:30:44,015] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.050 seconds
+[2023-12-03 21:31:17,024] {processor.py:153} INFO - Started process (PID=5784) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:31:17,024] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-12-03 21:31:17,024] {logging_mixin.py:115} INFO - [2023-12-03 21:31:17,024] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:31:17,030] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:31:17,043] {logging_mixin.py:115} INFO - [2023-12-03 21:31:17,043] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:31:17,056] {logging_mixin.py:115} INFO - [2023-12-03 21:31:17,056] {dag.py:2915} INFO - Setting next_dagrun for example_task_group to 2023-12-02T16:31:17.056022+00:00, run_after=2023-12-03T16:31:17.056022+00:00
+[2023-12-03 21:31:17,064] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.043 seconds
+[2023-12-03 21:31:49,117] {processor.py:153} INFO - Started process (PID=5818) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:31:49,117] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-12-03 21:31:49,118] {logging_mixin.py:115} INFO - [2023-12-03 21:31:49,117] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:31:49,124] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:31:49,137] {logging_mixin.py:115} INFO - [2023-12-03 21:31:49,137] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:31:49,150] {logging_mixin.py:115} INFO - [2023-12-03 21:31:49,150] {dag.py:2915} INFO - Setting next_dagrun for example_task_group to 2023-12-02T16:31:49.150289+00:00, run_after=2023-12-03T16:31:49.150289+00:00
+[2023-12-03 21:31:49,158] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.044 seconds
+[2023-12-03 21:32:21,454] {processor.py:153} INFO - Started process (PID=5852) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:32:21,454] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-12-03 21:32:21,455] {logging_mixin.py:115} INFO - [2023-12-03 21:32:21,455] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:32:21,461] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:32:21,475] {logging_mixin.py:115} INFO - [2023-12-03 21:32:21,475] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:32:21,489] {logging_mixin.py:115} INFO - [2023-12-03 21:32:21,489] {dag.py:2915} INFO - Setting next_dagrun for example_task_group to 2023-12-02T16:32:21.489037+00:00, run_after=2023-12-03T16:32:21.489037+00:00
+[2023-12-03 21:32:21,497] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.045 seconds
+[2023-12-03 21:32:56,258] {processor.py:153} INFO - Started process (PID=5890) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:32:56,258] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-12-03 21:32:56,259] {logging_mixin.py:115} INFO - [2023-12-03 21:32:56,259] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:32:56,265] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:32:56,277] {logging_mixin.py:115} INFO - [2023-12-03 21:32:56,277] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:32:56,290] {logging_mixin.py:115} INFO - [2023-12-03 21:32:56,290] {dag.py:2915} INFO - Setting next_dagrun for example_task_group to 2023-12-02T16:32:56.290289+00:00, run_after=2023-12-03T16:32:56.290289+00:00
+[2023-12-03 21:32:56,298] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.042 seconds
+[2023-12-03 21:33:27,047] {processor.py:153} INFO - Started process (PID=5924) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:33:27,047] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-12-03 21:33:27,048] {logging_mixin.py:115} INFO - [2023-12-03 21:33:27,048] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:33:27,053] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:33:27,065] {logging_mixin.py:115} INFO - [2023-12-03 21:33:27,065] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:33:27,078] {logging_mixin.py:115} INFO - [2023-12-03 21:33:27,078] {dag.py:2915} INFO - Setting next_dagrun for example_task_group to 2023-12-02T16:33:27.078639+00:00, run_after=2023-12-03T16:33:27.078639+00:00
+[2023-12-03 21:33:27,086] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.041 seconds
+[2023-12-03 21:33:59,693] {processor.py:153} INFO - Started process (PID=5959) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:33:59,698] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-12-03 21:33:59,698] {logging_mixin.py:115} INFO - [2023-12-03 21:33:59,698] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:33:59,704] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:33:59,718] {logging_mixin.py:115} INFO - [2023-12-03 21:33:59,718] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:33:59,729] {logging_mixin.py:115} INFO - [2023-12-03 21:33:59,729] {dag.py:2915} INFO - Setting next_dagrun for example_task_group to 2023-12-02T16:33:59.729362+00:00, run_after=2023-12-03T16:33:59.729362+00:00
+[2023-12-03 21:33:59,737] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.047 seconds
+[2023-12-03 21:34:33,463] {processor.py:153} INFO - Started process (PID=5996) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:34:33,464] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-12-03 21:34:33,464] {logging_mixin.py:115} INFO - [2023-12-03 21:34:33,464] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:34:33,469] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:34:33,484] {logging_mixin.py:115} INFO - [2023-12-03 21:34:33,484] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:34:33,495] {logging_mixin.py:115} INFO - [2023-12-03 21:34:33,495] {dag.py:2915} INFO - Setting next_dagrun for example_task_group to 2023-12-02T16:34:33.495361+00:00, run_after=2023-12-03T16:34:33.495361+00:00
+[2023-12-03 21:34:33,505] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.045 seconds
+[2023-12-03 21:35:04,370] {processor.py:153} INFO - Started process (PID=6034) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:35:04,371] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-12-03 21:35:04,371] {logging_mixin.py:115} INFO - [2023-12-03 21:35:04,371] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:35:04,377] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:35:04,404] {logging_mixin.py:115} INFO - [2023-12-03 21:35:04,404] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:35:04,415] {logging_mixin.py:115} INFO - [2023-12-03 21:35:04,415] {dag.py:2915} INFO - Setting next_dagrun for example_task_group to 2023-12-02T16:35:04.415646+00:00, run_after=2023-12-03T16:35:04.415646+00:00
+[2023-12-03 21:35:04,426] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.058 seconds
+[2023-12-03 21:35:38,671] {processor.py:153} INFO - Started process (PID=6075) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:35:38,672] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-12-03 21:35:38,672] {logging_mixin.py:115} INFO - [2023-12-03 21:35:38,672] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:35:38,678] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-12-03 21:35:38,692] {logging_mixin.py:115} INFO - [2023-12-03 21:35:38,692] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:35:38,703] {logging_mixin.py:115} INFO - [2023-12-03 21:35:38,703] {dag.py:2915} INFO - Setting next_dagrun for example_task_group to 2023-12-02T16:35:38.703449+00:00, run_after=2023-12-03T16:35:38.703449+00:00
+[2023-12-03 21:35:38,712] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 0.043 seconds

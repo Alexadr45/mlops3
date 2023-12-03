@@ -1,0 +1,158 @@
+[2023-12-03 21:24:17,401] {processor.py:153} INFO - Started process (PID=5251) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:24:17,401] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-12-03 21:24:17,402] {logging_mixin.py:115} INFO - [2023-12-03 21:24:17,402] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:24:17,409] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:24:17,450] {logging_mixin.py:115} INFO - [2023-12-03 21:24:17,450] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_nested_branch_dag
+[2023-12-03 21:24:17,455] {logging_mixin.py:115} INFO - [2023-12-03 21:24:17,455] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_nested_branch_dag
+[2023-12-03 21:24:17,460] {logging_mixin.py:115} INFO - [2023-12-03 21:24:17,459] {manager.py:508} INFO - Created Permission View: can read on DAG:example_nested_branch_dag
+[2023-12-03 21:24:17,460] {logging_mixin.py:115} INFO - [2023-12-03 21:24:17,460] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:24:17,464] {logging_mixin.py:115} INFO - [2023-12-03 21:24:17,464] {dag.py:2390} INFO - Creating ORM DAG for example_nested_branch_dag
+[2023-12-03 21:24:17,471] {logging_mixin.py:115} INFO - [2023-12-03 21:24:17,471] {dag.py:2915} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:24:17,479] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.080 seconds
+[2023-12-03 21:24:48,094] {processor.py:153} INFO - Started process (PID=5289) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:24:48,094] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-12-03 21:24:48,094] {logging_mixin.py:115} INFO - [2023-12-03 21:24:48,094] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:24:48,102] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:24:48,115] {logging_mixin.py:115} INFO - [2023-12-03 21:24:48,115] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:24:48,129] {logging_mixin.py:115} INFO - [2023-12-03 21:24:48,129] {dag.py:2915} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:24:48,136] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.045 seconds
+[2023-12-03 21:25:22,930] {processor.py:153} INFO - Started process (PID=5335) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:25:22,931] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-12-03 21:25:22,931] {logging_mixin.py:115} INFO - [2023-12-03 21:25:22,931] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:25:22,939] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:25:22,951] {logging_mixin.py:115} INFO - [2023-12-03 21:25:22,951] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:25:22,964] {logging_mixin.py:115} INFO - [2023-12-03 21:25:22,964] {dag.py:2915} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:25:22,972] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.044 seconds
+[2023-12-03 21:25:53,652] {processor.py:153} INFO - Started process (PID=5369) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:25:53,652] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-12-03 21:25:53,653] {logging_mixin.py:115} INFO - [2023-12-03 21:25:53,652] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:25:53,666] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:25:53,680] {logging_mixin.py:115} INFO - [2023-12-03 21:25:53,680] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:25:53,694] {logging_mixin.py:115} INFO - [2023-12-03 21:25:53,694] {dag.py:2915} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:25:53,701] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.052 seconds
+[2023-12-03 21:26:26,237] {processor.py:153} INFO - Started process (PID=5403) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:26:26,238] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-12-03 21:26:26,238] {logging_mixin.py:115} INFO - [2023-12-03 21:26:26,238] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:26:26,246] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:26:26,258] {logging_mixin.py:115} INFO - [2023-12-03 21:26:26,258] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:26:26,271] {logging_mixin.py:115} INFO - [2023-12-03 21:26:26,271] {dag.py:2915} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:26:26,279] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.044 seconds
+[2023-12-03 21:26:58,277] {processor.py:153} INFO - Started process (PID=5453) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:26:58,277] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-12-03 21:26:58,278] {logging_mixin.py:115} INFO - [2023-12-03 21:26:58,278] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:26:58,286] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:26:58,300] {logging_mixin.py:115} INFO - [2023-12-03 21:26:58,300] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:26:58,314] {logging_mixin.py:115} INFO - [2023-12-03 21:26:58,314] {dag.py:2915} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:26:58,323] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.049 seconds
+[2023-12-03 21:27:31,434] {processor.py:153} INFO - Started process (PID=5487) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:27:31,435] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-12-03 21:27:31,435] {logging_mixin.py:115} INFO - [2023-12-03 21:27:31,435] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:27:31,463] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:27:31,502] {logging_mixin.py:115} INFO - [2023-12-03 21:27:31,502] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:27:31,526] {logging_mixin.py:115} INFO - [2023-12-03 21:27:31,525] {dag.py:2915} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:27:31,533] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.105 seconds
+[2023-12-03 21:28:04,959] {processor.py:153} INFO - Started process (PID=5556) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:28:04,959] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-12-03 21:28:04,959] {logging_mixin.py:115} INFO - [2023-12-03 21:28:04,959] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:28:04,967] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:28:04,983] {logging_mixin.py:115} INFO - [2023-12-03 21:28:04,983] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:28:04,997] {logging_mixin.py:115} INFO - [2023-12-03 21:28:04,997] {dag.py:2915} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:28:05,004] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.048 seconds
+[2023-12-03 21:28:37,971] {processor.py:153} INFO - Started process (PID=5592) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:28:37,971] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-12-03 21:28:37,971] {logging_mixin.py:115} INFO - [2023-12-03 21:28:37,971] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:28:37,979] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:28:37,992] {logging_mixin.py:115} INFO - [2023-12-03 21:28:37,992] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:28:38,005] {logging_mixin.py:115} INFO - [2023-12-03 21:28:38,005] {dag.py:2915} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:28:38,012] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.047 seconds
+[2023-12-03 21:29:10,252] {processor.py:153} INFO - Started process (PID=5632) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:29:10,252] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-12-03 21:29:10,252] {logging_mixin.py:115} INFO - [2023-12-03 21:29:10,252] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:29:10,260] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:29:10,272] {logging_mixin.py:115} INFO - [2023-12-03 21:29:10,272] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:29:10,286] {logging_mixin.py:115} INFO - [2023-12-03 21:29:10,286] {dag.py:2915} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:29:10,294] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.045 seconds
+[2023-12-03 21:29:42,402] {processor.py:153} INFO - Started process (PID=5671) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:29:42,402] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-12-03 21:29:42,403] {logging_mixin.py:115} INFO - [2023-12-03 21:29:42,403] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:29:42,410] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:29:42,422] {logging_mixin.py:115} INFO - [2023-12-03 21:29:42,422] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:29:42,437] {logging_mixin.py:115} INFO - [2023-12-03 21:29:42,437] {dag.py:2915} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:29:42,444] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.045 seconds
+[2023-12-03 21:30:14,313] {processor.py:153} INFO - Started process (PID=5710) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:30:14,314] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-12-03 21:30:14,314] {logging_mixin.py:115} INFO - [2023-12-03 21:30:14,314] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:30:14,322] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:30:14,334] {logging_mixin.py:115} INFO - [2023-12-03 21:30:14,334] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:30:14,347] {logging_mixin.py:115} INFO - [2023-12-03 21:30:14,347] {dag.py:2915} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:30:14,355] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.044 seconds
+[2023-12-03 21:30:47,215] {processor.py:153} INFO - Started process (PID=5753) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:30:47,215] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-12-03 21:30:47,216] {logging_mixin.py:115} INFO - [2023-12-03 21:30:47,216] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:30:47,225] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:30:47,239] {logging_mixin.py:115} INFO - [2023-12-03 21:30:47,239] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:30:47,254] {logging_mixin.py:115} INFO - [2023-12-03 21:30:47,254] {dag.py:2915} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:30:47,263] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.051 seconds
+[2023-12-03 21:31:19,865] {processor.py:153} INFO - Started process (PID=5787) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:31:19,866] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-12-03 21:31:19,866] {logging_mixin.py:115} INFO - [2023-12-03 21:31:19,866] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:31:19,874] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:31:19,886] {logging_mixin.py:115} INFO - [2023-12-03 21:31:19,886] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:31:19,901] {logging_mixin.py:115} INFO - [2023-12-03 21:31:19,901] {dag.py:2915} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:31:19,909] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.046 seconds
+[2023-12-03 21:31:51,786] {processor.py:153} INFO - Started process (PID=5821) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:31:51,786] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-12-03 21:31:51,786] {logging_mixin.py:115} INFO - [2023-12-03 21:31:51,786] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:31:51,796] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:31:51,810] {logging_mixin.py:115} INFO - [2023-12-03 21:31:51,810] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:31:51,830] {logging_mixin.py:115} INFO - [2023-12-03 21:31:51,830] {dag.py:2915} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:31:51,840] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.060 seconds
+[2023-12-03 21:32:24,833] {processor.py:153} INFO - Started process (PID=5855) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:32:24,833] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-12-03 21:32:24,834] {logging_mixin.py:115} INFO - [2023-12-03 21:32:24,834] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:32:24,842] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:32:24,854] {logging_mixin.py:115} INFO - [2023-12-03 21:32:24,854] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:32:24,868] {logging_mixin.py:115} INFO - [2023-12-03 21:32:24,868] {dag.py:2915} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:32:24,876] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.046 seconds
+[2023-12-03 21:32:59,007] {processor.py:153} INFO - Started process (PID=5893) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:32:59,008] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-12-03 21:32:59,008] {logging_mixin.py:115} INFO - [2023-12-03 21:32:59,008] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:32:59,017] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:32:59,029] {logging_mixin.py:115} INFO - [2023-12-03 21:32:59,029] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:32:59,046] {logging_mixin.py:115} INFO - [2023-12-03 21:32:59,046] {dag.py:2915} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:32:59,063] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.058 seconds
+[2023-12-03 21:33:30,435] {processor.py:153} INFO - Started process (PID=5927) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:33:30,435] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-12-03 21:33:30,435] {logging_mixin.py:115} INFO - [2023-12-03 21:33:30,435] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:33:30,444] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:33:30,456] {logging_mixin.py:115} INFO - [2023-12-03 21:33:30,456] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:33:30,470] {logging_mixin.py:115} INFO - [2023-12-03 21:33:30,470] {dag.py:2915} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:33:30,478] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.046 seconds
+[2023-12-03 21:34:02,875] {processor.py:153} INFO - Started process (PID=5964) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:34:02,875] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-12-03 21:34:02,876] {logging_mixin.py:115} INFO - [2023-12-03 21:34:02,876] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:34:02,883] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:34:02,897] {logging_mixin.py:115} INFO - [2023-12-03 21:34:02,897] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:34:02,909] {logging_mixin.py:115} INFO - [2023-12-03 21:34:02,909] {dag.py:2915} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:34:02,916] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.044 seconds
+[2023-12-03 21:34:35,852] {processor.py:153} INFO - Started process (PID=5999) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:34:35,853] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-12-03 21:34:35,853] {logging_mixin.py:115} INFO - [2023-12-03 21:34:35,853] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:34:35,862] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:34:35,879] {logging_mixin.py:115} INFO - [2023-12-03 21:34:35,879] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:34:35,893] {logging_mixin.py:115} INFO - [2023-12-03 21:34:35,892] {dag.py:2915} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:34:35,901] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.051 seconds
+[2023-12-03 21:35:07,753] {processor.py:153} INFO - Started process (PID=6038) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:35:07,753] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-12-03 21:35:07,754] {logging_mixin.py:115} INFO - [2023-12-03 21:35:07,754] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:35:07,762] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:35:07,776] {logging_mixin.py:115} INFO - [2023-12-03 21:35:07,776] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:35:07,788] {logging_mixin.py:115} INFO - [2023-12-03 21:35:07,788] {dag.py:2915} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:35:07,797] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.046 seconds
+[2023-12-03 21:35:41,009] {processor.py:153} INFO - Started process (PID=6078) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:35:41,009] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2023-12-03 21:35:41,010] {logging_mixin.py:115} INFO - [2023-12-03 21:35:41,010] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:35:41,019] {processor.py:651} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2023-12-03 21:35:41,038] {logging_mixin.py:115} INFO - [2023-12-03 21:35:41,037] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:35:41,053] {logging_mixin.py:115} INFO - [2023-12-03 21:35:41,053] {dag.py:2915} INFO - Setting next_dagrun for example_nested_branch_dag to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:35:41,064] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.058 seconds

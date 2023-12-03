@@ -1,0 +1,184 @@
+[2023-12-03 21:23:54,831] {processor.py:153} INFO - Started process (PID=4542) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:23:54,832] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-12-03 21:23:54,832] {logging_mixin.py:115} INFO - [2023-12-03 21:23:54,832] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:23:54,846] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:23:54,886] {logging_mixin.py:115} INFO - [2023-12-03 21:23:54,886] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_xcom_args
+[2023-12-03 21:23:54,891] {logging_mixin.py:115} INFO - [2023-12-03 21:23:54,891] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_xcom_args
+[2023-12-03 21:23:54,896] {logging_mixin.py:115} INFO - [2023-12-03 21:23:54,896] {manager.py:508} INFO - Created Permission View: can read on DAG:example_xcom_args
+[2023-12-03 21:23:54,906] {logging_mixin.py:115} INFO - [2023-12-03 21:23:54,906] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_xcom_args_with_operators
+[2023-12-03 21:23:54,910] {logging_mixin.py:115} INFO - [2023-12-03 21:23:54,910] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_xcom_args_with_operators
+[2023-12-03 21:23:54,914] {logging_mixin.py:115} INFO - [2023-12-03 21:23:54,914] {manager.py:508} INFO - Created Permission View: can read on DAG:example_xcom_args_with_operators
+[2023-12-03 21:23:54,914] {logging_mixin.py:115} INFO - [2023-12-03 21:23:54,914] {dag.py:2371} INFO - Sync 2 DAGs
+[2023-12-03 21:23:54,919] {logging_mixin.py:115} INFO - [2023-12-03 21:23:54,919] {dag.py:2390} INFO - Creating ORM DAG for example_xcom_args
+[2023-12-03 21:23:54,919] {logging_mixin.py:115} INFO - [2023-12-03 21:23:54,919] {dag.py:2390} INFO - Creating ORM DAG for example_xcom_args_with_operators
+[2023-12-03 21:23:54,929] {logging_mixin.py:115} INFO - [2023-12-03 21:23:54,929] {dag.py:2915} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-12-03 21:23:54,930] {logging_mixin.py:115} INFO - [2023-12-03 21:23:54,930] {dag.py:2915} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-12-03 21:23:54,938] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.109 seconds
+[2023-12-03 21:24:30,439] {processor.py:153} INFO - Started process (PID=5269) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:24:30,439] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-12-03 21:24:30,440] {logging_mixin.py:115} INFO - [2023-12-03 21:24:30,439] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:24:30,455] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:24:30,483] {logging_mixin.py:115} INFO - [2023-12-03 21:24:30,483] {dag.py:2371} INFO - Sync 2 DAGs
+[2023-12-03 21:24:30,492] {logging_mixin.py:115} INFO - [2023-12-03 21:24:30,492] {dag.py:2915} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-12-03 21:24:30,493] {logging_mixin.py:115} INFO - [2023-12-03 21:24:30,493] {dag.py:2915} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-12-03 21:24:30,501] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.064 seconds
+[2023-12-03 21:25:02,403] {processor.py:153} INFO - Started process (PID=5309) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:25:02,403] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-12-03 21:25:02,403] {logging_mixin.py:115} INFO - [2023-12-03 21:25:02,403] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:25:02,419] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:25:02,431] {logging_mixin.py:115} INFO - [2023-12-03 21:25:02,431] {dag.py:2371} INFO - Sync 2 DAGs
+[2023-12-03 21:25:02,442] {logging_mixin.py:115} INFO - [2023-12-03 21:25:02,442] {dag.py:2915} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-12-03 21:25:02,442] {logging_mixin.py:115} INFO - [2023-12-03 21:25:02,442] {dag.py:2915} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-12-03 21:25:02,450] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.049 seconds
+[2023-12-03 21:25:34,909] {processor.py:153} INFO - Started process (PID=5349) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:25:34,909] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-12-03 21:25:34,910] {logging_mixin.py:115} INFO - [2023-12-03 21:25:34,910] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:25:34,925] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:25:34,938] {logging_mixin.py:115} INFO - [2023-12-03 21:25:34,937] {dag.py:2371} INFO - Sync 2 DAGs
+[2023-12-03 21:25:34,948] {logging_mixin.py:115} INFO - [2023-12-03 21:25:34,948] {dag.py:2915} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-12-03 21:25:34,948] {logging_mixin.py:115} INFO - [2023-12-03 21:25:34,948] {dag.py:2915} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-12-03 21:25:34,956] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.049 seconds
+[2023-12-03 21:26:06,840] {processor.py:153} INFO - Started process (PID=5383) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:26:06,840] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-12-03 21:26:06,841] {logging_mixin.py:115} INFO - [2023-12-03 21:26:06,841] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:26:06,870] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:26:06,887] {logging_mixin.py:115} INFO - [2023-12-03 21:26:06,887] {dag.py:2371} INFO - Sync 2 DAGs
+[2023-12-03 21:26:06,909] {logging_mixin.py:115} INFO - [2023-12-03 21:26:06,908] {dag.py:2915} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-12-03 21:26:06,909] {logging_mixin.py:115} INFO - [2023-12-03 21:26:06,909] {dag.py:2915} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-12-03 21:26:06,927] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.089 seconds
+[2023-12-03 21:26:40,162] {processor.py:153} INFO - Started process (PID=5433) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:26:40,162] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-12-03 21:26:40,162] {logging_mixin.py:115} INFO - [2023-12-03 21:26:40,162] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:26:40,178] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:26:40,206] {logging_mixin.py:115} INFO - [2023-12-03 21:26:40,206] {dag.py:2371} INFO - Sync 2 DAGs
+[2023-12-03 21:26:40,215] {logging_mixin.py:115} INFO - [2023-12-03 21:26:40,215] {dag.py:2915} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-12-03 21:26:40,215] {logging_mixin.py:115} INFO - [2023-12-03 21:26:40,215] {dag.py:2915} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-12-03 21:26:40,223] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.064 seconds
+[2023-12-03 21:27:11,562] {processor.py:153} INFO - Started process (PID=5467) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:27:11,562] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-12-03 21:27:11,562] {logging_mixin.py:115} INFO - [2023-12-03 21:27:11,562] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:27:11,578] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:27:11,606] {logging_mixin.py:115} INFO - [2023-12-03 21:27:11,606] {dag.py:2371} INFO - Sync 2 DAGs
+[2023-12-03 21:27:11,615] {logging_mixin.py:115} INFO - [2023-12-03 21:27:11,615] {dag.py:2915} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-12-03 21:27:11,615] {logging_mixin.py:115} INFO - [2023-12-03 21:27:11,615] {dag.py:2915} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-12-03 21:27:11,623] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.063 seconds
+[2023-12-03 21:27:44,468] {processor.py:153} INFO - Started process (PID=5519) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:27:44,469] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-12-03 21:27:44,469] {logging_mixin.py:115} INFO - [2023-12-03 21:27:44,469] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:27:44,485] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:27:44,515] {logging_mixin.py:115} INFO - [2023-12-03 21:27:44,515] {dag.py:2371} INFO - Sync 2 DAGs
+[2023-12-03 21:27:44,524] {logging_mixin.py:115} INFO - [2023-12-03 21:27:44,524] {dag.py:2915} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-12-03 21:27:44,524] {logging_mixin.py:115} INFO - [2023-12-03 21:27:44,524] {dag.py:2915} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-12-03 21:27:44,532] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.067 seconds
+[2023-12-03 21:28:18,940] {processor.py:153} INFO - Started process (PID=5571) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:28:18,941] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-12-03 21:28:18,941] {logging_mixin.py:115} INFO - [2023-12-03 21:28:18,941] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:28:18,956] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:28:18,988] {logging_mixin.py:115} INFO - [2023-12-03 21:28:18,988] {dag.py:2371} INFO - Sync 2 DAGs
+[2023-12-03 21:28:18,998] {logging_mixin.py:115} INFO - [2023-12-03 21:28:18,998] {dag.py:2915} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-12-03 21:28:18,998] {logging_mixin.py:115} INFO - [2023-12-03 21:28:18,998] {dag.py:2915} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-12-03 21:28:19,006] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.068 seconds
+[2023-12-03 21:28:51,119] {processor.py:153} INFO - Started process (PID=5606) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:28:51,119] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-12-03 21:28:51,120] {logging_mixin.py:115} INFO - [2023-12-03 21:28:51,120] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:28:51,135] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:28:51,164] {logging_mixin.py:115} INFO - [2023-12-03 21:28:51,164] {dag.py:2371} INFO - Sync 2 DAGs
+[2023-12-03 21:28:51,176] {logging_mixin.py:115} INFO - [2023-12-03 21:28:51,176] {dag.py:2915} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-12-03 21:28:51,176] {logging_mixin.py:115} INFO - [2023-12-03 21:28:51,176] {dag.py:2915} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-12-03 21:28:51,184] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.068 seconds
+[2023-12-03 21:29:24,132] {processor.py:153} INFO - Started process (PID=5651) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:29:24,132] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-12-03 21:29:24,132] {logging_mixin.py:115} INFO - [2023-12-03 21:29:24,132] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:29:24,148] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:29:24,177] {logging_mixin.py:115} INFO - [2023-12-03 21:29:24,177] {dag.py:2371} INFO - Sync 2 DAGs
+[2023-12-03 21:29:24,186] {logging_mixin.py:115} INFO - [2023-12-03 21:29:24,186] {dag.py:2915} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-12-03 21:29:24,186] {logging_mixin.py:115} INFO - [2023-12-03 21:29:24,186] {dag.py:2915} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-12-03 21:29:24,194] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.064 seconds
+[2023-12-03 21:29:55,514] {processor.py:153} INFO - Started process (PID=5685) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:29:55,514] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-12-03 21:29:55,515] {logging_mixin.py:115} INFO - [2023-12-03 21:29:55,515] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:29:55,530] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:29:55,560] {logging_mixin.py:115} INFO - [2023-12-03 21:29:55,560] {dag.py:2371} INFO - Sync 2 DAGs
+[2023-12-03 21:29:55,570] {logging_mixin.py:115} INFO - [2023-12-03 21:29:55,570] {dag.py:2915} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-12-03 21:29:55,570] {logging_mixin.py:115} INFO - [2023-12-03 21:29:55,570] {dag.py:2915} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-12-03 21:29:55,578] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.067 seconds
+[2023-12-03 21:30:27,030] {processor.py:153} INFO - Started process (PID=5727) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:30:27,030] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-12-03 21:30:27,030] {logging_mixin.py:115} INFO - [2023-12-03 21:30:27,030] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:30:27,046] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:30:27,075] {logging_mixin.py:115} INFO - [2023-12-03 21:30:27,075] {dag.py:2371} INFO - Sync 2 DAGs
+[2023-12-03 21:30:27,084] {logging_mixin.py:115} INFO - [2023-12-03 21:30:27,084] {dag.py:2915} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-12-03 21:30:27,084] {logging_mixin.py:115} INFO - [2023-12-03 21:30:27,084] {dag.py:2915} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-12-03 21:30:27,092] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.065 seconds
+[2023-12-03 21:31:00,503] {processor.py:153} INFO - Started process (PID=5767) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:31:00,503] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-12-03 21:31:00,503] {logging_mixin.py:115} INFO - [2023-12-03 21:31:00,503] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:31:00,519] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:31:00,551] {logging_mixin.py:115} INFO - [2023-12-03 21:31:00,551] {dag.py:2371} INFO - Sync 2 DAGs
+[2023-12-03 21:31:00,561] {logging_mixin.py:115} INFO - [2023-12-03 21:31:00,561] {dag.py:2915} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-12-03 21:31:00,562] {logging_mixin.py:115} INFO - [2023-12-03 21:31:00,561] {dag.py:2915} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-12-03 21:31:00,570] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.070 seconds
+[2023-12-03 21:31:33,509] {processor.py:153} INFO - Started process (PID=5801) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:31:33,509] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-12-03 21:31:33,510] {logging_mixin.py:115} INFO - [2023-12-03 21:31:33,510] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:31:33,535] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:31:33,573] {logging_mixin.py:115} INFO - [2023-12-03 21:31:33,573] {dag.py:2371} INFO - Sync 2 DAGs
+[2023-12-03 21:31:33,589] {logging_mixin.py:115} INFO - [2023-12-03 21:31:33,589] {dag.py:2915} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-12-03 21:31:33,589] {logging_mixin.py:115} INFO - [2023-12-03 21:31:33,589] {dag.py:2915} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-12-03 21:31:33,604] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.100 seconds
+[2023-12-03 21:32:04,921] {processor.py:153} INFO - Started process (PID=5835) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:32:04,921] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-12-03 21:32:04,921] {logging_mixin.py:115} INFO - [2023-12-03 21:32:04,921] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:32:04,937] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:32:04,968] {logging_mixin.py:115} INFO - [2023-12-03 21:32:04,967] {dag.py:2371} INFO - Sync 2 DAGs
+[2023-12-03 21:32:04,979] {logging_mixin.py:115} INFO - [2023-12-03 21:32:04,979] {dag.py:2915} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-12-03 21:32:04,980] {logging_mixin.py:115} INFO - [2023-12-03 21:32:04,979] {dag.py:2915} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-12-03 21:32:04,990] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.071 seconds
+[2023-12-03 21:32:38,640] {processor.py:153} INFO - Started process (PID=5871) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:32:38,641] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-12-03 21:32:38,641] {logging_mixin.py:115} INFO - [2023-12-03 21:32:38,641] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:32:38,682] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:32:38,707] {logging_mixin.py:115} INFO - [2023-12-03 21:32:38,707] {dag.py:2371} INFO - Sync 2 DAGs
+[2023-12-03 21:32:38,727] {logging_mixin.py:115} INFO - [2023-12-03 21:32:38,727] {dag.py:2915} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-12-03 21:32:38,727] {logging_mixin.py:115} INFO - [2023-12-03 21:32:38,727] {dag.py:2915} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-12-03 21:32:38,747] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.109 seconds
+[2023-12-03 21:33:11,652] {processor.py:153} INFO - Started process (PID=5907) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:33:11,653] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-12-03 21:33:11,653] {logging_mixin.py:115} INFO - [2023-12-03 21:33:11,653] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:33:11,669] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:33:11,681] {logging_mixin.py:115} INFO - [2023-12-03 21:33:11,681] {dag.py:2371} INFO - Sync 2 DAGs
+[2023-12-03 21:33:11,692] {logging_mixin.py:115} INFO - [2023-12-03 21:33:11,692] {dag.py:2915} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-12-03 21:33:11,693] {logging_mixin.py:115} INFO - [2023-12-03 21:33:11,693] {dag.py:2915} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-12-03 21:33:11,700] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.050 seconds
+[2023-12-03 21:33:43,573] {processor.py:153} INFO - Started process (PID=5941) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:33:43,574] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-12-03 21:33:43,574] {logging_mixin.py:115} INFO - [2023-12-03 21:33:43,574] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:33:43,590] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:33:43,602] {logging_mixin.py:115} INFO - [2023-12-03 21:33:43,602] {dag.py:2371} INFO - Sync 2 DAGs
+[2023-12-03 21:33:43,613] {logging_mixin.py:115} INFO - [2023-12-03 21:33:43,613] {dag.py:2915} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-12-03 21:33:43,613] {logging_mixin.py:115} INFO - [2023-12-03 21:33:43,613] {dag.py:2915} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-12-03 21:33:43,620] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.050 seconds
+[2023-12-03 21:34:16,645] {processor.py:153} INFO - Started process (PID=5979) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:34:16,646] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-12-03 21:34:16,646] {logging_mixin.py:115} INFO - [2023-12-03 21:34:16,646] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:34:16,661] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:34:16,691] {logging_mixin.py:115} INFO - [2023-12-03 21:34:16,691] {dag.py:2371} INFO - Sync 2 DAGs
+[2023-12-03 21:34:16,700] {logging_mixin.py:115} INFO - [2023-12-03 21:34:16,700] {dag.py:2915} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-12-03 21:34:16,700] {logging_mixin.py:115} INFO - [2023-12-03 21:34:16,700] {dag.py:2915} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-12-03 21:34:16,708] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.066 seconds
+[2023-12-03 21:34:48,954] {processor.py:153} INFO - Started process (PID=6013) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:34:48,954] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-12-03 21:34:48,954] {logging_mixin.py:115} INFO - [2023-12-03 21:34:48,954] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:34:48,972] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:34:48,985] {logging_mixin.py:115} INFO - [2023-12-03 21:34:48,985] {dag.py:2371} INFO - Sync 2 DAGs
+[2023-12-03 21:34:48,997] {logging_mixin.py:115} INFO - [2023-12-03 21:34:48,997] {dag.py:2915} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-12-03 21:34:48,997] {logging_mixin.py:115} INFO - [2023-12-03 21:34:48,997] {dag.py:2915} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-12-03 21:34:49,010] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.058 seconds
+[2023-12-03 21:35:20,625] {processor.py:153} INFO - Started process (PID=6058) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:35:20,625] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2023-12-03 21:35:20,625] {logging_mixin.py:115} INFO - [2023-12-03 21:35:20,625] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:35:20,641] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py
+[2023-12-03 21:35:20,653] {logging_mixin.py:115} INFO - [2023-12-03 21:35:20,653] {dag.py:2371} INFO - Sync 2 DAGs
+[2023-12-03 21:35:20,664] {logging_mixin.py:115} INFO - [2023-12-03 21:35:20,664] {dag.py:2915} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2023-12-03 21:35:20,664] {logging_mixin.py:115} INFO - [2023-12-03 21:35:20,664] {dag.py:2915} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2023-12-03 21:35:20,672] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py took 0.050 seconds

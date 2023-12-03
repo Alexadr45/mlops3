@@ -1,0 +1,158 @@
+[2023-12-03 21:24:03,697] {processor.py:153} INFO - Started process (PID=5178) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:24:03,698] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-03 21:24:03,699] {logging_mixin.py:115} INFO - [2023-12-03 21:24:03,699] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:24:03,717] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:24:03,816] {logging_mixin.py:115} INFO - [2023-12-03 21:24:03,816] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_complex
+[2023-12-03 21:24:03,827] {logging_mixin.py:115} INFO - [2023-12-03 21:24:03,827] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_complex
+[2023-12-03 21:24:03,835] {logging_mixin.py:115} INFO - [2023-12-03 21:24:03,834] {manager.py:508} INFO - Created Permission View: can read on DAG:example_complex
+[2023-12-03 21:24:03,835] {logging_mixin.py:115} INFO - [2023-12-03 21:24:03,835] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:24:03,846] {logging_mixin.py:115} INFO - [2023-12-03 21:24:03,846] {dag.py:2390} INFO - Creating ORM DAG for example_complex
+[2023-12-03 21:24:03,855] {logging_mixin.py:115} INFO - [2023-12-03 21:24:03,855] {dag.py:2915} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-03 21:24:03,880] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.191 seconds
+[2023-12-03 21:24:37,819] {processor.py:153} INFO - Started process (PID=5277) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:24:37,819] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-03 21:24:37,824] {logging_mixin.py:115} INFO - [2023-12-03 21:24:37,824] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:24:37,838] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:24:37,858] {logging_mixin.py:115} INFO - [2023-12-03 21:24:37,858] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:24:37,870] {logging_mixin.py:115} INFO - [2023-12-03 21:24:37,870] {dag.py:2915} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-03 21:24:37,877] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.061 seconds
+[2023-12-03 21:25:10,404] {processor.py:153} INFO - Started process (PID=5323) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:25:10,404] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-03 21:25:10,405] {logging_mixin.py:115} INFO - [2023-12-03 21:25:10,405] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:25:10,413] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:25:10,430] {logging_mixin.py:115} INFO - [2023-12-03 21:25:10,430] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:25:10,441] {logging_mixin.py:115} INFO - [2023-12-03 21:25:10,441] {dag.py:2915} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-03 21:25:10,448] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.047 seconds
+[2023-12-03 21:25:42,298] {processor.py:153} INFO - Started process (PID=5357) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:25:42,298] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-03 21:25:42,298] {logging_mixin.py:115} INFO - [2023-12-03 21:25:42,298] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:25:42,307] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:25:42,323] {logging_mixin.py:115} INFO - [2023-12-03 21:25:42,323] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:25:42,334] {logging_mixin.py:115} INFO - [2023-12-03 21:25:42,334] {dag.py:2915} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-03 21:25:42,341] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.046 seconds
+[2023-12-03 21:26:15,213] {processor.py:153} INFO - Started process (PID=5391) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:26:15,213] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-03 21:26:15,214] {logging_mixin.py:115} INFO - [2023-12-03 21:26:15,214] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:26:15,222] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:26:15,239] {logging_mixin.py:115} INFO - [2023-12-03 21:26:15,239] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:26:15,249] {logging_mixin.py:115} INFO - [2023-12-03 21:26:15,249] {dag.py:2915} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-03 21:26:15,257] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.046 seconds
+[2023-12-03 21:26:46,871] {processor.py:153} INFO - Started process (PID=5441) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:26:46,872] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-03 21:26:46,872] {logging_mixin.py:115} INFO - [2023-12-03 21:26:46,872] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:26:46,881] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:26:46,899] {logging_mixin.py:115} INFO - [2023-12-03 21:26:46,899] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:26:46,909] {logging_mixin.py:115} INFO - [2023-12-03 21:26:46,909] {dag.py:2915} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-03 21:26:46,917] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.048 seconds
+[2023-12-03 21:27:19,940] {processor.py:153} INFO - Started process (PID=5475) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:27:19,944] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-03 21:27:19,944] {logging_mixin.py:115} INFO - [2023-12-03 21:27:19,944] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:27:19,961] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:27:20,008] {logging_mixin.py:115} INFO - [2023-12-03 21:27:20,008] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:27:20,037] {logging_mixin.py:115} INFO - [2023-12-03 21:27:20,037] {dag.py:2915} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-03 21:27:20,056] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.124 seconds
+[2023-12-03 21:27:52,982] {processor.py:153} INFO - Started process (PID=5538) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:27:52,982] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-03 21:27:52,983] {logging_mixin.py:115} INFO - [2023-12-03 21:27:52,983] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:27:52,991] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:27:53,008] {logging_mixin.py:115} INFO - [2023-12-03 21:27:53,007] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:27:53,018] {logging_mixin.py:115} INFO - [2023-12-03 21:27:53,018] {dag.py:2915} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-03 21:27:53,025] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.046 seconds
+[2023-12-03 21:28:25,689] {processor.py:153} INFO - Started process (PID=5579) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:28:25,689] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-03 21:28:25,690] {logging_mixin.py:115} INFO - [2023-12-03 21:28:25,690] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:28:25,698] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:28:25,717] {logging_mixin.py:115} INFO - [2023-12-03 21:28:25,717] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:28:25,727] {logging_mixin.py:115} INFO - [2023-12-03 21:28:25,727] {dag.py:2915} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-03 21:28:25,735] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.048 seconds
+[2023-12-03 21:28:58,228] {processor.py:153} INFO - Started process (PID=5614) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:28:58,228] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-03 21:28:58,228] {logging_mixin.py:115} INFO - [2023-12-03 21:28:58,228] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:28:58,237] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:28:58,253] {logging_mixin.py:115} INFO - [2023-12-03 21:28:58,253] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:28:58,263] {logging_mixin.py:115} INFO - [2023-12-03 21:28:58,263] {dag.py:2915} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-03 21:28:58,271] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.046 seconds
+[2023-12-03 21:29:31,006] {processor.py:153} INFO - Started process (PID=5659) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:29:31,006] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-03 21:29:31,006] {logging_mixin.py:115} INFO - [2023-12-03 21:29:31,006] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:29:31,015] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:29:31,035] {logging_mixin.py:115} INFO - [2023-12-03 21:29:31,035] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:29:31,046] {logging_mixin.py:115} INFO - [2023-12-03 21:29:31,046] {dag.py:2915} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-03 21:29:31,054] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.051 seconds
+[2023-12-03 21:30:04,033] {processor.py:153} INFO - Started process (PID=5698) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:30:04,033] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-03 21:30:04,033] {logging_mixin.py:115} INFO - [2023-12-03 21:30:04,033] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:30:04,042] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:30:04,058] {logging_mixin.py:115} INFO - [2023-12-03 21:30:04,058] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:30:04,070] {logging_mixin.py:115} INFO - [2023-12-03 21:30:04,070] {dag.py:2915} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-03 21:30:04,077] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.047 seconds
+[2023-12-03 21:30:34,833] {processor.py:153} INFO - Started process (PID=5741) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:30:34,834] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-03 21:30:34,834] {logging_mixin.py:115} INFO - [2023-12-03 21:30:34,834] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:30:34,844] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:30:34,863] {logging_mixin.py:115} INFO - [2023-12-03 21:30:34,863] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:30:34,876] {logging_mixin.py:115} INFO - [2023-12-03 21:30:34,876] {dag.py:2915} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-03 21:30:34,885] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.055 seconds
+[2023-12-03 21:31:08,507] {processor.py:153} INFO - Started process (PID=5775) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:31:08,508] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-03 21:31:08,508] {logging_mixin.py:115} INFO - [2023-12-03 21:31:08,508] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:31:08,517] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:31:08,534] {logging_mixin.py:115} INFO - [2023-12-03 21:31:08,533] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:31:08,544] {logging_mixin.py:115} INFO - [2023-12-03 21:31:08,544] {dag.py:2915} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-03 21:31:08,552] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.047 seconds
+[2023-12-03 21:31:40,390] {processor.py:153} INFO - Started process (PID=5809) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:31:40,390] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-03 21:31:40,391] {logging_mixin.py:115} INFO - [2023-12-03 21:31:40,391] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:31:40,399] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:31:40,416] {logging_mixin.py:115} INFO - [2023-12-03 21:31:40,416] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:31:40,427] {logging_mixin.py:115} INFO - [2023-12-03 21:31:40,427] {dag.py:2915} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-03 21:31:40,436] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.048 seconds
+[2023-12-03 21:32:12,642] {processor.py:153} INFO - Started process (PID=5843) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:32:12,642] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-03 21:32:12,643] {logging_mixin.py:115} INFO - [2023-12-03 21:32:12,643] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:32:12,651] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:32:12,669] {logging_mixin.py:115} INFO - [2023-12-03 21:32:12,669] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:32:12,680] {logging_mixin.py:115} INFO - [2023-12-03 21:32:12,680] {dag.py:2915} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-03 21:32:12,687] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.048 seconds
+[2023-12-03 21:32:47,122] {processor.py:153} INFO - Started process (PID=5881) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:32:47,123] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-03 21:32:47,123] {logging_mixin.py:115} INFO - [2023-12-03 21:32:47,123] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:32:47,131] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:32:47,155] {logging_mixin.py:115} INFO - [2023-12-03 21:32:47,155] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:32:47,170] {logging_mixin.py:115} INFO - [2023-12-03 21:32:47,170] {dag.py:2915} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-03 21:32:47,181] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.062 seconds
+[2023-12-03 21:33:19,041] {processor.py:153} INFO - Started process (PID=5915) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:33:19,041] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-03 21:33:19,042] {logging_mixin.py:115} INFO - [2023-12-03 21:33:19,042] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:33:19,050] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:33:19,066] {logging_mixin.py:115} INFO - [2023-12-03 21:33:19,066] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:33:19,077] {logging_mixin.py:115} INFO - [2023-12-03 21:33:19,077] {dag.py:2915} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-03 21:33:19,085] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.046 seconds
+[2023-12-03 21:33:51,815] {processor.py:153} INFO - Started process (PID=5949) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:33:51,816] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-03 21:33:51,816] {logging_mixin.py:115} INFO - [2023-12-03 21:33:51,816] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:33:51,825] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:33:51,843] {logging_mixin.py:115} INFO - [2023-12-03 21:33:51,843] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:33:51,854] {logging_mixin.py:115} INFO - [2023-12-03 21:33:51,854] {dag.py:2915} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-03 21:33:51,863] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.050 seconds
+[2023-12-03 21:34:24,464] {processor.py:153} INFO - Started process (PID=5987) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:34:24,464] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-03 21:34:24,465] {logging_mixin.py:115} INFO - [2023-12-03 21:34:24,465] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:34:24,474] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:34:24,491] {logging_mixin.py:115} INFO - [2023-12-03 21:34:24,491] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:34:24,501] {logging_mixin.py:115} INFO - [2023-12-03 21:34:24,501] {dag.py:2915} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-03 21:34:24,510] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.049 seconds
+[2023-12-03 21:34:56,352] {processor.py:153} INFO - Started process (PID=6023) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:34:56,352] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-03 21:34:56,352] {logging_mixin.py:115} INFO - [2023-12-03 21:34:56,352] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:34:56,361] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:34:56,379] {logging_mixin.py:115} INFO - [2023-12-03 21:34:56,379] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:34:56,390] {logging_mixin.py:115} INFO - [2023-12-03 21:34:56,390] {dag.py:2915} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-03 21:34:56,398] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.048 seconds
+[2023-12-03 21:35:29,213] {processor.py:153} INFO - Started process (PID=6066) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:35:29,214] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2023-12-03 21:35:29,215] {logging_mixin.py:115} INFO - [2023-12-03 21:35:29,215] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:35:29,230] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py
+[2023-12-03 21:35:29,264] {logging_mixin.py:115} INFO - [2023-12-03 21:35:29,264] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:35:29,288] {logging_mixin.py:115} INFO - [2023-12-03 21:35:29,288] {dag.py:2915} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2023-12-03 21:35:29,304] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_complex.py took 0.094 seconds

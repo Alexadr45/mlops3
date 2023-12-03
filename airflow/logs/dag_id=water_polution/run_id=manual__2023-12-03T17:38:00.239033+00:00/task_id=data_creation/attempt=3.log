@@ -1,0 +1,49 @@
+[2023-12-03 22:48:12,480] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: water_polution.data_creation manual__2023-12-03T17:38:00.239033+00:00 [queued]>
+[2023-12-03 22:48:12,491] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: water_polution.data_creation manual__2023-12-03T17:38:00.239033+00:00 [queued]>
+[2023-12-03 22:48:12,491] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2023-12-03 22:48:12,491] {taskinstance.py:1357} INFO - Starting attempt 3 of 6
+[2023-12-03 22:48:12,491] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2023-12-03 22:48:12,511] {taskinstance.py:1377} INFO - Executing <Task(BashOperator): data_creation> on 2023-12-03 17:38:00.239033+00:00
+[2023-12-03 22:48:12,518] {standard_task_runner.py:52} INFO - Started process 19758 to run task
+[2023-12-03 22:48:12,527] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'water_polution', 'data_creation', 'manual__2023-12-03T17:38:00.239033+00:00', '--job-id', '11', '--raw', '--subdir', 'DAGS_FOLDER/water_polution.py', '--cfg-path', '/tmp/tmpsczgoq1s', '--error-file', '/tmp/tmptyi708r9']
+[2023-12-03 22:48:12,532] {standard_task_runner.py:80} INFO - Job 11: Subtask data_creation
+[2023-12-03 22:48:12,627] {task_command.py:369} INFO - Running <TaskInstance: water_polution.data_creation manual__2023-12-03T17:38:00.239033+00:00 [running]> on host MLops.myguest.virtualbox.org
+[2023-12-03 22:48:12,708] {taskinstance.py:1569} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=Admin
+AIRFLOW_CTX_DAG_ID=water_polution
+AIRFLOW_CTX_TASK_ID=data_creation
+AIRFLOW_CTX_EXECUTION_DATE=2023-12-03T17:38:00.239033+00:00
+AIRFLOW_CTX_TRY_NUMBER=3
+AIRFLOW_CTX_DAG_RUN_ID=manual__2023-12-03T17:38:00.239033+00:00
+[2023-12-03 22:48:12,709] {subprocess.py:62} INFO - Tmp dir root location: 
+ /tmp
+[2023-12-03 22:48:12,709] {subprocess.py:74} INFO - Running command: ['bash', '-c', 'python3 /home/antosha/project/scripts/data_creation.py']
+[2023-12-03 22:48:12,725] {subprocess.py:85} INFO - Output:
+[2023-12-03 22:48:15,168] {subprocess.py:92} INFO - /home/antosha/venvs/practice_3/lib/python3.10/site-packages/gdown/parse_url.py:44: UserWarning: You specified a Google Drive link that is not the correct link to download a file. You might want to try `--fuzzy` option or the following url: https://drive.google.com/uc?id=19NlsU9_6qfc7q1gdG7Wi22jO7vhlpV07
+[2023-12-03 22:48:15,169] {subprocess.py:92} INFO -   warnings.warn(
+[2023-12-03 22:48:16,008] {subprocess.py:92} INFO - Downloading...
+[2023-12-03 22:48:16,008] {subprocess.py:92} INFO - From: https://drive.google.com/file/d/19NlsU9_6qfc7q1gdG7Wi22jO7vhlpV07/view?usp=drive_link
+[2023-12-03 22:48:16,008] {subprocess.py:92} INFO - To: /home/antosha/project/scripts/datasets/dataset.csv
+[2023-12-03 22:48:16,009] {subprocess.py:92} INFO - 0.00B [00:00, ?B/s]84.8kB [00:00, 379MB/s]
+[2023-12-03 22:48:16,076] {subprocess.py:92} INFO - Traceback (most recent call last):
+[2023-12-03 22:48:16,076] {subprocess.py:92} INFO -   File "/home/antosha/project/scripts/data_creation.py", line 11, in <module>
+[2023-12-03 22:48:16,076] {subprocess.py:92} INFO -     df[['id', 'year', 'code', 'period']],
+[2023-12-03 22:48:16,076] {subprocess.py:92} INFO -   File "/home/antosha/venvs/practice_3/lib/python3.10/site-packages/pandas/core/frame.py", line 3899, in __getitem__
+[2023-12-03 22:48:16,082] {subprocess.py:92} INFO -     indexer = self.columns._get_indexer_strict(key, "columns")[1]
+[2023-12-03 22:48:16,082] {subprocess.py:92} INFO -   File "/home/antosha/venvs/practice_3/lib/python3.10/site-packages/pandas/core/indexes/base.py", line 6114, in _get_indexer_strict
+[2023-12-03 22:48:16,085] {subprocess.py:92} INFO -     self._raise_if_missing(keyarr, indexer, axis_name)
+[2023-12-03 22:48:16,085] {subprocess.py:92} INFO -   File "/home/antosha/venvs/practice_3/lib/python3.10/site-packages/pandas/core/indexes/base.py", line 6175, in _raise_if_missing
+[2023-12-03 22:48:16,086] {subprocess.py:92} INFO -     raise KeyError(f"None of [{key}] are in the [{axis_name}]")
+[2023-12-03 22:48:16,086] {subprocess.py:92} INFO - KeyError: "None of [Index(['id', 'year', 'code', 'period'], dtype='object')] are in the [columns]"
+[2023-12-03 22:48:16,341] {subprocess.py:96} INFO - Command exited with return code 1
+[2023-12-03 22:48:16,353] {taskinstance.py:1889} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/operators/bash.py", line 194, in execute
+    raise AirflowException(
+airflow.exceptions.AirflowException: Bash command failed. The command returned a non-zero exit code 1.
+[2023-12-03 22:48:16,356] {taskinstance.py:1395} INFO - Marking task as UP_FOR_RETRY. dag_id=water_polution, task_id=data_creation, execution_date=20231203T173800, start_date=20231203T174812, end_date=20231203T174816
+[2023-12-03 22:48:16,367] {standard_task_runner.py:92} ERROR - Failed to execute job 11 for task data_creation (Bash command failed. The command returned a non-zero exit code 1.; 19758)
+[2023-12-03 22:48:16,391] {local_task_job.py:156} INFO - Task exited with return code 1
+[2023-12-03 22:48:16,414] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

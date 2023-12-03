@@ -1,0 +1,158 @@
+[2023-12-03 21:23:59,683] {processor.py:153} INFO - Started process (PID=4676) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:23:59,683] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-12-03 21:23:59,684] {logging_mixin.py:115} INFO - [2023-12-03 21:23:59,683] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:23:59,708] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:23:59,806] {logging_mixin.py:115} INFO - [2023-12-03 21:23:59,805] {manager.py:508} INFO - Created Permission View: can delete on DAG:tutorial_taskflow_api_etl
+[2023-12-03 21:23:59,820] {logging_mixin.py:115} INFO - [2023-12-03 21:23:59,819] {manager.py:508} INFO - Created Permission View: can edit on DAG:tutorial_taskflow_api_etl
+[2023-12-03 21:23:59,827] {logging_mixin.py:115} INFO - [2023-12-03 21:23:59,826] {manager.py:508} INFO - Created Permission View: can read on DAG:tutorial_taskflow_api_etl
+[2023-12-03 21:23:59,827] {logging_mixin.py:115} INFO - [2023-12-03 21:23:59,827] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:23:59,836] {logging_mixin.py:115} INFO - [2023-12-03 21:23:59,836] {dag.py:2390} INFO - Creating ORM DAG for tutorial_taskflow_api_etl
+[2023-12-03 21:23:59,850] {logging_mixin.py:115} INFO - [2023-12-03 21:23:59,850] {dag.py:2915} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-12-03 21:23:59,871] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.199 seconds
+[2023-12-03 21:24:33,312] {processor.py:153} INFO - Started process (PID=5273) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:24:33,313] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-12-03 21:24:33,313] {logging_mixin.py:115} INFO - [2023-12-03 21:24:33,313] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:24:33,325] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:24:33,354] {logging_mixin.py:115} INFO - [2023-12-03 21:24:33,354] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:24:33,363] {logging_mixin.py:115} INFO - [2023-12-03 21:24:33,363] {dag.py:2915} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-12-03 21:24:33,371] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.062 seconds
+[2023-12-03 21:25:06,399] {processor.py:153} INFO - Started process (PID=5318) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:25:06,400] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-12-03 21:25:06,400] {logging_mixin.py:115} INFO - [2023-12-03 21:25:06,400] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:25:06,412] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:25:06,425] {logging_mixin.py:115} INFO - [2023-12-03 21:25:06,425] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:25:06,436] {logging_mixin.py:115} INFO - [2023-12-03 21:25:06,436] {dag.py:2915} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-12-03 21:25:06,443] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.047 seconds
+[2023-12-03 21:25:38,517] {processor.py:153} INFO - Started process (PID=5353) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:25:38,518] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-12-03 21:25:38,518] {logging_mixin.py:115} INFO - [2023-12-03 21:25:38,518] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:25:38,530] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:25:38,544] {logging_mixin.py:115} INFO - [2023-12-03 21:25:38,543] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:25:38,554] {logging_mixin.py:115} INFO - [2023-12-03 21:25:38,554] {dag.py:2915} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-12-03 21:25:38,561] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.046 seconds
+[2023-12-03 21:26:10,839] {processor.py:153} INFO - Started process (PID=5387) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:26:10,840] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-12-03 21:26:10,840] {logging_mixin.py:115} INFO - [2023-12-03 21:26:10,840] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:26:10,861] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:26:10,877] {logging_mixin.py:115} INFO - [2023-12-03 21:26:10,877] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:26:10,888] {logging_mixin.py:115} INFO - [2023-12-03 21:26:10,888] {dag.py:2915} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-12-03 21:26:10,896] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.059 seconds
+[2023-12-03 21:26:44,009] {processor.py:153} INFO - Started process (PID=5437) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:26:44,010] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-12-03 21:26:44,010] {logging_mixin.py:115} INFO - [2023-12-03 21:26:44,010] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:26:44,022] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:26:44,060] {logging_mixin.py:115} INFO - [2023-12-03 21:26:44,060] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:26:44,070] {logging_mixin.py:115} INFO - [2023-12-03 21:26:44,070] {dag.py:2915} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-12-03 21:26:44,078] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.071 seconds
+[2023-12-03 21:27:15,930] {processor.py:153} INFO - Started process (PID=5471) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:27:15,930] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-12-03 21:27:15,930] {logging_mixin.py:115} INFO - [2023-12-03 21:27:15,930] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:27:15,947] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:27:15,992] {logging_mixin.py:115} INFO - [2023-12-03 21:27:15,992] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:27:16,002] {logging_mixin.py:115} INFO - [2023-12-03 21:27:16,002] {dag.py:2915} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-12-03 21:27:16,010] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.083 seconds
+[2023-12-03 21:27:48,466] {processor.py:153} INFO - Started process (PID=5534) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:27:48,466] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-12-03 21:27:48,467] {logging_mixin.py:115} INFO - [2023-12-03 21:27:48,467] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:27:48,478] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:27:48,492] {logging_mixin.py:115} INFO - [2023-12-03 21:27:48,491] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:27:48,502] {logging_mixin.py:115} INFO - [2023-12-03 21:27:48,502] {dag.py:2915} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-12-03 21:27:48,511] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.048 seconds
+[2023-12-03 21:28:22,574] {processor.py:153} INFO - Started process (PID=5575) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:28:22,574] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-12-03 21:28:22,574] {logging_mixin.py:115} INFO - [2023-12-03 21:28:22,574] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:28:22,586] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:28:22,616] {logging_mixin.py:115} INFO - [2023-12-03 21:28:22,616] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:28:22,625] {logging_mixin.py:115} INFO - [2023-12-03 21:28:22,625] {dag.py:2915} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-12-03 21:28:22,633] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.062 seconds
+[2023-12-03 21:28:54,713] {processor.py:153} INFO - Started process (PID=5610) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:28:54,713] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-12-03 21:28:54,714] {logging_mixin.py:115} INFO - [2023-12-03 21:28:54,714] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:28:54,725] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:28:54,753] {logging_mixin.py:115} INFO - [2023-12-03 21:28:54,753] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:28:54,762] {logging_mixin.py:115} INFO - [2023-12-03 21:28:54,762] {dag.py:2915} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-12-03 21:28:54,770] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.060 seconds
+[2023-12-03 21:29:27,481] {processor.py:153} INFO - Started process (PID=5655) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:29:27,482] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-12-03 21:29:27,482] {logging_mixin.py:115} INFO - [2023-12-03 21:29:27,482] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:29:27,494] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:29:27,525] {logging_mixin.py:115} INFO - [2023-12-03 21:29:27,525] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:29:27,534] {logging_mixin.py:115} INFO - [2023-12-03 21:29:27,534] {dag.py:2915} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-12-03 21:29:27,543] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.064 seconds
+[2023-12-03 21:30:00,031] {processor.py:153} INFO - Started process (PID=5690) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:30:00,031] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-12-03 21:30:00,032] {logging_mixin.py:115} INFO - [2023-12-03 21:30:00,032] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:30:00,044] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:30:00,057] {logging_mixin.py:115} INFO - [2023-12-03 21:30:00,057] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:30:00,068] {logging_mixin.py:115} INFO - [2023-12-03 21:30:00,068] {dag.py:2915} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-12-03 21:30:00,076] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.048 seconds
+[2023-12-03 21:30:30,821] {processor.py:153} INFO - Started process (PID=5733) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:30:30,822] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-12-03 21:30:30,822] {logging_mixin.py:115} INFO - [2023-12-03 21:30:30,822] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:30:30,834] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:30:30,848] {logging_mixin.py:115} INFO - [2023-12-03 21:30:30,848] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:30:30,858] {logging_mixin.py:115} INFO - [2023-12-03 21:30:30,858] {dag.py:2915} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-12-03 21:30:30,866] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.047 seconds
+[2023-12-03 21:31:04,508] {processor.py:153} INFO - Started process (PID=5771) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:31:04,509] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-12-03 21:31:04,509] {logging_mixin.py:115} INFO - [2023-12-03 21:31:04,509] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:31:04,521] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:31:04,536] {logging_mixin.py:115} INFO - [2023-12-03 21:31:04,536] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:31:04,548] {logging_mixin.py:115} INFO - [2023-12-03 21:31:04,548] {dag.py:2915} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-12-03 21:31:04,555] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.050 seconds
+[2023-12-03 21:31:37,512] {processor.py:153} INFO - Started process (PID=5805) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:31:37,513] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-12-03 21:31:37,513] {logging_mixin.py:115} INFO - [2023-12-03 21:31:37,513] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:31:37,527] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:31:37,559] {logging_mixin.py:115} INFO - [2023-12-03 21:31:37,558] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:31:37,569] {logging_mixin.py:115} INFO - [2023-12-03 21:31:37,569] {dag.py:2915} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-12-03 21:31:37,579] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.069 seconds
+[2023-12-03 21:32:09,380] {processor.py:153} INFO - Started process (PID=5839) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:32:09,380] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-12-03 21:32:09,381] {logging_mixin.py:115} INFO - [2023-12-03 21:32:09,381] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:32:09,394] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:32:09,408] {logging_mixin.py:115} INFO - [2023-12-03 21:32:09,408] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:32:09,419] {logging_mixin.py:115} INFO - [2023-12-03 21:32:09,419] {dag.py:2915} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-12-03 21:32:09,426] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.049 seconds
+[2023-12-03 21:32:42,850] {processor.py:153} INFO - Started process (PID=5877) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:32:42,851] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-12-03 21:32:42,851] {logging_mixin.py:115} INFO - [2023-12-03 21:32:42,851] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:32:42,864] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:32:42,895] {logging_mixin.py:115} INFO - [2023-12-03 21:32:42,895] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:32:42,913] {logging_mixin.py:115} INFO - [2023-12-03 21:32:42,913] {dag.py:2915} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-12-03 21:32:42,924] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.076 seconds
+[2023-12-03 21:33:15,362] {processor.py:153} INFO - Started process (PID=5911) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:33:15,362] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-12-03 21:33:15,363] {logging_mixin.py:115} INFO - [2023-12-03 21:33:15,363] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:33:15,376] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:33:15,389] {logging_mixin.py:115} INFO - [2023-12-03 21:33:15,389] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:33:15,400] {logging_mixin.py:115} INFO - [2023-12-03 21:33:15,400] {dag.py:2915} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-12-03 21:33:15,414] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.054 seconds
+[2023-12-03 21:33:47,580] {processor.py:153} INFO - Started process (PID=5945) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:33:47,580] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-12-03 21:33:47,581] {logging_mixin.py:115} INFO - [2023-12-03 21:33:47,581] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:33:47,593] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:33:47,606] {logging_mixin.py:115} INFO - [2023-12-03 21:33:47,606] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:33:47,617] {logging_mixin.py:115} INFO - [2023-12-03 21:33:47,617] {dag.py:2915} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-12-03 21:33:47,625] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.048 seconds
+[2023-12-03 21:34:19,947] {processor.py:153} INFO - Started process (PID=5983) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:34:19,947] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-12-03 21:34:19,948] {logging_mixin.py:115} INFO - [2023-12-03 21:34:19,948] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:34:19,963] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:34:19,993] {logging_mixin.py:115} INFO - [2023-12-03 21:34:19,993] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:34:20,007] {logging_mixin.py:115} INFO - [2023-12-03 21:34:20,007] {dag.py:2915} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-12-03 21:34:20,016] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.072 seconds
+[2023-12-03 21:34:52,592] {processor.py:153} INFO - Started process (PID=6017) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:34:52,593] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-12-03 21:34:52,593] {logging_mixin.py:115} INFO - [2023-12-03 21:34:52,593] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:34:52,608] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:34:52,619] {logging_mixin.py:115} INFO - [2023-12-03 21:34:52,619] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:34:52,630] {logging_mixin.py:115} INFO - [2023-12-03 21:34:52,630] {dag.py:2915} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-12-03 21:34:52,638] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.049 seconds
+[2023-12-03 21:35:24,902] {processor.py:153} INFO - Started process (PID=6062) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:35:24,903] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2023-12-03 21:35:24,903] {logging_mixin.py:115} INFO - [2023-12-03 21:35:24,903] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:35:24,917] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2023-12-03 21:35:24,929] {logging_mixin.py:115} INFO - [2023-12-03 21:35:24,929] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:35:24,942] {logging_mixin.py:115} INFO - [2023-12-03 21:35:24,942] {dag.py:2915} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2023-12-03 21:35:24,951] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.051 seconds

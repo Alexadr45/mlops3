@@ -1,0 +1,45 @@
+[2023-12-04 00:17:02,564] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: water_polution.model_testing manual__2023-12-03T19:16:36.965714+00:00 [queued]>
+[2023-12-04 00:17:02,569] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: water_polution.model_testing manual__2023-12-03T19:16:36.965714+00:00 [queued]>
+[2023-12-04 00:17:02,570] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2023-12-04 00:17:02,570] {taskinstance.py:1357} INFO - Starting attempt 1 of 6
+[2023-12-04 00:17:02,570] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2023-12-04 00:17:02,588] {taskinstance.py:1377} INFO - Executing <Task(BashOperator): model_testing> on 2023-12-03 19:16:36.965714+00:00
+[2023-12-04 00:17:02,595] {standard_task_runner.py:52} INFO - Started process 34794 to run task
+[2023-12-04 00:17:02,600] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'water_polution', 'model_testing', 'manual__2023-12-03T19:16:36.965714+00:00', '--job-id', '26', '--raw', '--subdir', 'DAGS_FOLDER/water_polution.py', '--cfg-path', '/tmp/tmpfawoqqix', '--error-file', '/tmp/tmpr_jpjioe']
+[2023-12-04 00:17:02,601] {standard_task_runner.py:80} INFO - Job 26: Subtask model_testing
+[2023-12-04 00:17:02,667] {task_command.py:369} INFO - Running <TaskInstance: water_polution.model_testing manual__2023-12-03T19:16:36.965714+00:00 [running]> on host MLops.myguest.virtualbox.org
+[2023-12-04 00:17:02,746] {taskinstance.py:1569} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=Admin
+AIRFLOW_CTX_DAG_ID=water_polution
+AIRFLOW_CTX_TASK_ID=model_testing
+AIRFLOW_CTX_EXECUTION_DATE=2023-12-03T19:16:36.965714+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2023-12-03T19:16:36.965714+00:00
+[2023-12-04 00:17:02,747] {subprocess.py:62} INFO - Tmp dir root location: 
+ /tmp
+[2023-12-04 00:17:02,748] {subprocess.py:74} INFO - Running command: ['bash', '-c', 'python3 /home/antosha/project/scripts/model_testing.py']
+[2023-12-04 00:17:02,758] {subprocess.py:85} INFO - Output:
+[2023-12-04 00:17:04,604] {subprocess.py:92} INFO - 2023/12/04 00:17:04 WARNING mlflow.utils.git_utils: Failed to import Git (the Git executable is probably not on your PATH), so Git SHA is not available. Error: Failed to initialize: Bad git executable.
+[2023-12-04 00:17:04,604] {subprocess.py:92} INFO - The git executable must be specified in one of the following ways:
+[2023-12-04 00:17:04,604] {subprocess.py:92} INFO -     - be included in your $PATH
+[2023-12-04 00:17:04,604] {subprocess.py:92} INFO -     - be set via $GIT_PYTHON_GIT_EXECUTABLE
+[2023-12-04 00:17:04,604] {subprocess.py:92} INFO -     - explicitly set via git.refresh()
+[2023-12-04 00:17:04,604] {subprocess.py:92} INFO - 
+[2023-12-04 00:17:04,604] {subprocess.py:92} INFO - All git commands will error until this is rectified.
+[2023-12-04 00:17:04,605] {subprocess.py:92} INFO - 
+[2023-12-04 00:17:04,605] {subprocess.py:92} INFO - This initial warning can be silenced or aggravated in the future by setting the
+[2023-12-04 00:17:04,605] {subprocess.py:92} INFO - $GIT_PYTHON_REFRESH environment variable. Use one of the following values:
+[2023-12-04 00:17:04,605] {subprocess.py:92} INFO -     - quiet|q|silence|s|none|n|0: for no warning or exception
+[2023-12-04 00:17:04,605] {subprocess.py:92} INFO -     - warn|w|warning|1: for a printed warning
+[2023-12-04 00:17:04,605] {subprocess.py:92} INFO -     - error|e|raise|r|2: for a raised exception
+[2023-12-04 00:17:04,605] {subprocess.py:92} INFO - 
+[2023-12-04 00:17:04,605] {subprocess.py:92} INFO - Example:
+[2023-12-04 00:17:04,605] {subprocess.py:92} INFO -     export GIT_PYTHON_REFRESH=quiet
+[2023-12-04 00:17:04,605] {subprocess.py:92} INFO - 
+[2023-12-04 00:17:04,826] {subprocess.py:92} INFO - f1_score: 0.8088737201365187
+[2023-12-04 00:17:04,993] {subprocess.py:96} INFO - Command exited with return code 0
+[2023-12-04 00:17:05,007] {taskinstance.py:1395} INFO - Marking task as SUCCESS. dag_id=water_polution, task_id=model_testing, execution_date=20231203T191636, start_date=20231203T191702, end_date=20231203T191705
+[2023-12-04 00:17:05,056] {local_task_job.py:156} INFO - Task exited with return code 0
+[2023-12-04 00:17:05,066] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

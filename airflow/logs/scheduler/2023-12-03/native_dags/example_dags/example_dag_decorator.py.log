@@ -1,0 +1,158 @@
+[2023-12-03 21:24:17,918] {processor.py:153} INFO - Started process (PID=5252) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:24:17,919] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-12-03 21:24:17,919] {logging_mixin.py:115} INFO - [2023-12-03 21:24:17,919] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:24:17,937] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:24:17,974] {logging_mixin.py:115} INFO - [2023-12-03 21:24:17,974] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_dag_decorator
+[2023-12-03 21:24:17,979] {logging_mixin.py:115} INFO - [2023-12-03 21:24:17,979] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_dag_decorator
+[2023-12-03 21:24:17,983] {logging_mixin.py:115} INFO - [2023-12-03 21:24:17,983] {manager.py:508} INFO - Created Permission View: can read on DAG:example_dag_decorator
+[2023-12-03 21:24:17,983] {logging_mixin.py:115} INFO - [2023-12-03 21:24:17,983] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:24:17,991] {logging_mixin.py:115} INFO - [2023-12-03 21:24:17,990] {dag.py:2390} INFO - Creating ORM DAG for example_dag_decorator
+[2023-12-03 21:24:17,997] {logging_mixin.py:115} INFO - [2023-12-03 21:24:17,997] {dag.py:2915} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-12-03 21:24:18,006] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.090 seconds
+[2023-12-03 21:24:48,705] {processor.py:153} INFO - Started process (PID=5290) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:24:48,705] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-12-03 21:24:48,706] {logging_mixin.py:115} INFO - [2023-12-03 21:24:48,706] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:24:48,724] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:24:48,752] {logging_mixin.py:115} INFO - [2023-12-03 21:24:48,752] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:24:48,761] {logging_mixin.py:115} INFO - [2023-12-03 21:24:48,761] {dag.py:2915} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-12-03 21:24:48,769] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.066 seconds
+[2023-12-03 21:25:23,389] {processor.py:153} INFO - Started process (PID=5336) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:25:23,389] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-12-03 21:25:23,390] {logging_mixin.py:115} INFO - [2023-12-03 21:25:23,390] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:25:23,407] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:25:23,418] {logging_mixin.py:115} INFO - [2023-12-03 21:25:23,418] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:25:23,428] {logging_mixin.py:115} INFO - [2023-12-03 21:25:23,428] {dag.py:2915} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-12-03 21:25:23,436] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.049 seconds
+[2023-12-03 21:25:53,896] {processor.py:153} INFO - Started process (PID=5370) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:25:53,897] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-12-03 21:25:53,897] {logging_mixin.py:115} INFO - [2023-12-03 21:25:53,897] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:25:53,916] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:25:53,928] {logging_mixin.py:115} INFO - [2023-12-03 21:25:53,927] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:25:53,938] {logging_mixin.py:115} INFO - [2023-12-03 21:25:53,938] {dag.py:2915} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-12-03 21:25:53,945] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.051 seconds
+[2023-12-03 21:26:27,368] {processor.py:153} INFO - Started process (PID=5404) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:26:27,369] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-12-03 21:26:27,369] {logging_mixin.py:115} INFO - [2023-12-03 21:26:27,369] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:26:27,387] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:26:27,398] {logging_mixin.py:115} INFO - [2023-12-03 21:26:27,398] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:26:27,408] {logging_mixin.py:115} INFO - [2023-12-03 21:26:27,408] {dag.py:2915} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-12-03 21:26:27,415] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.049 seconds
+[2023-12-03 21:26:59,404] {processor.py:153} INFO - Started process (PID=5454) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:26:59,404] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-12-03 21:26:59,404] {logging_mixin.py:115} INFO - [2023-12-03 21:26:59,404] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:26:59,422] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:26:59,449] {logging_mixin.py:115} INFO - [2023-12-03 21:26:59,449] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:26:59,457] {logging_mixin.py:115} INFO - [2023-12-03 21:26:59,457] {dag.py:2915} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-12-03 21:26:59,465] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.064 seconds
+[2023-12-03 21:27:32,680] {processor.py:153} INFO - Started process (PID=5489) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:27:32,681] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-12-03 21:27:32,681] {logging_mixin.py:115} INFO - [2023-12-03 21:27:32,681] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:27:32,737] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:27:32,819] {logging_mixin.py:115} INFO - [2023-12-03 21:27:32,819] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:27:32,836] {logging_mixin.py:115} INFO - [2023-12-03 21:27:32,836] {dag.py:2915} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-12-03 21:27:32,852] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.178 seconds
+[2023-12-03 21:28:05,436] {processor.py:153} INFO - Started process (PID=5557) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:28:05,436] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-12-03 21:28:05,436] {logging_mixin.py:115} INFO - [2023-12-03 21:28:05,436] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:28:05,456] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:28:05,488] {logging_mixin.py:115} INFO - [2023-12-03 21:28:05,487] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:28:05,497] {logging_mixin.py:115} INFO - [2023-12-03 21:28:05,497] {dag.py:2915} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-12-03 21:28:05,506] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.072 seconds
+[2023-12-03 21:28:39,093] {processor.py:153} INFO - Started process (PID=5593) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:28:39,093] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-12-03 21:28:39,094] {logging_mixin.py:115} INFO - [2023-12-03 21:28:39,094] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:28:39,112] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:28:39,139] {logging_mixin.py:115} INFO - [2023-12-03 21:28:39,139] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:28:39,148] {logging_mixin.py:115} INFO - [2023-12-03 21:28:39,148] {dag.py:2915} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-12-03 21:28:39,156] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.065 seconds
+[2023-12-03 21:29:10,513] {processor.py:153} INFO - Started process (PID=5633) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:29:10,514] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-12-03 21:29:10,514] {logging_mixin.py:115} INFO - [2023-12-03 21:29:10,514] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:29:10,532] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:29:10,560] {logging_mixin.py:115} INFO - [2023-12-03 21:29:10,560] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:29:10,569] {logging_mixin.py:115} INFO - [2023-12-03 21:29:10,568] {dag.py:2915} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-12-03 21:29:10,576] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.066 seconds
+[2023-12-03 21:29:43,528] {processor.py:153} INFO - Started process (PID=5672) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:29:43,529] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-12-03 21:29:43,529] {logging_mixin.py:115} INFO - [2023-12-03 21:29:43,529] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:29:43,547] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:29:43,575] {logging_mixin.py:115} INFO - [2023-12-03 21:29:43,575] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:29:43,584] {logging_mixin.py:115} INFO - [2023-12-03 21:29:43,584] {dag.py:2915} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-12-03 21:29:43,593] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.067 seconds
+[2023-12-03 21:30:15,439] {processor.py:153} INFO - Started process (PID=5711) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:30:15,440] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-12-03 21:30:15,440] {logging_mixin.py:115} INFO - [2023-12-03 21:30:15,440] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:30:15,457] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:30:15,484] {logging_mixin.py:115} INFO - [2023-12-03 21:30:15,484] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:30:15,493] {logging_mixin.py:115} INFO - [2023-12-03 21:30:15,493] {dag.py:2915} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-12-03 21:30:15,500] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.063 seconds
+[2023-12-03 21:30:47,971] {processor.py:153} INFO - Started process (PID=5754) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:30:47,972] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-12-03 21:30:47,973] {logging_mixin.py:115} INFO - [2023-12-03 21:30:47,973] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:30:48,000] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:30:48,033] {logging_mixin.py:115} INFO - [2023-12-03 21:30:48,033] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:30:48,045] {logging_mixin.py:115} INFO - [2023-12-03 21:30:48,045] {dag.py:2915} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-12-03 21:30:48,056] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.088 seconds
+[2023-12-03 21:31:21,004] {processor.py:153} INFO - Started process (PID=5788) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:31:21,004] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-12-03 21:31:21,005] {logging_mixin.py:115} INFO - [2023-12-03 21:31:21,004] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:31:21,024] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:31:21,051] {logging_mixin.py:115} INFO - [2023-12-03 21:31:21,051] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:31:21,060] {logging_mixin.py:115} INFO - [2023-12-03 21:31:21,060] {dag.py:2915} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-12-03 21:31:21,069] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.069 seconds
+[2023-12-03 21:31:52,913] {processor.py:153} INFO - Started process (PID=5822) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:31:52,913] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-12-03 21:31:52,914] {logging_mixin.py:115} INFO - [2023-12-03 21:31:52,914] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:31:52,935] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:31:52,965] {logging_mixin.py:115} INFO - [2023-12-03 21:31:52,965] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:31:52,974] {logging_mixin.py:115} INFO - [2023-12-03 21:31:52,974] {dag.py:2915} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-12-03 21:31:52,983] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.073 seconds
+[2023-12-03 21:32:25,454] {processor.py:153} INFO - Started process (PID=5856) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:32:25,454] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-12-03 21:32:25,454] {logging_mixin.py:115} INFO - [2023-12-03 21:32:25,454] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:32:25,473] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:32:25,500] {logging_mixin.py:115} INFO - [2023-12-03 21:32:25,500] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:32:25,509] {logging_mixin.py:115} INFO - [2023-12-03 21:32:25,509] {dag.py:2915} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-12-03 21:32:25,517] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.065 seconds
+[2023-12-03 21:33:00,132] {processor.py:153} INFO - Started process (PID=5894) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:33:00,132] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-12-03 21:33:00,133] {logging_mixin.py:115} INFO - [2023-12-03 21:33:00,133] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:33:00,151] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:33:00,163] {logging_mixin.py:115} INFO - [2023-12-03 21:33:00,163] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:33:00,174] {logging_mixin.py:115} INFO - [2023-12-03 21:33:00,174] {dag.py:2915} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-12-03 21:33:00,183] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.054 seconds
+[2023-12-03 21:33:31,560] {processor.py:153} INFO - Started process (PID=5928) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:33:31,560] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-12-03 21:33:31,560] {logging_mixin.py:115} INFO - [2023-12-03 21:33:31,560] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:33:31,578] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:33:31,589] {logging_mixin.py:115} INFO - [2023-12-03 21:33:31,589] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:33:31,599] {logging_mixin.py:115} INFO - [2023-12-03 21:33:31,599] {dag.py:2915} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-12-03 21:33:31,608] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.050 seconds
+[2023-12-03 21:34:04,009] {processor.py:153} INFO - Started process (PID=5965) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:34:04,010] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-12-03 21:34:04,010] {logging_mixin.py:115} INFO - [2023-12-03 21:34:04,010] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:34:04,029] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:34:04,056] {logging_mixin.py:115} INFO - [2023-12-03 21:34:04,056] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:34:04,065] {logging_mixin.py:115} INFO - [2023-12-03 21:34:04,065] {dag.py:2915} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-12-03 21:34:04,074] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.067 seconds
+[2023-12-03 21:34:36,978] {processor.py:153} INFO - Started process (PID=6000) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:34:36,979] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-12-03 21:34:36,979] {logging_mixin.py:115} INFO - [2023-12-03 21:34:36,979] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:34:36,998] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:34:37,014] {logging_mixin.py:115} INFO - [2023-12-03 21:34:37,014] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:34:37,025] {logging_mixin.py:115} INFO - [2023-12-03 21:34:37,025] {dag.py:2915} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-12-03 21:34:37,033] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.057 seconds
+[2023-12-03 21:35:08,879] {processor.py:153} INFO - Started process (PID=6039) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:35:08,880] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-12-03 21:35:08,880] {logging_mixin.py:115} INFO - [2023-12-03 21:35:08,880] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:35:08,898] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:35:08,909] {logging_mixin.py:115} INFO - [2023-12-03 21:35:08,909] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:35:08,919] {logging_mixin.py:115} INFO - [2023-12-03 21:35:08,919] {dag.py:2915} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-12-03 21:35:08,927] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.050 seconds
+[2023-12-03 21:35:42,135] {processor.py:153} INFO - Started process (PID=6080) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:35:42,136] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-12-03 21:35:42,136] {logging_mixin.py:115} INFO - [2023-12-03 21:35:42,136] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:35:42,154] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-12-03 21:35:42,165] {logging_mixin.py:115} INFO - [2023-12-03 21:35:42,165] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:35:42,176] {logging_mixin.py:115} INFO - [2023-12-03 21:35:42,176] {dag.py:2915} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-12-03 21:35:42,183] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.051 seconds

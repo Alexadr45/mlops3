@@ -1,0 +1,110 @@
+[2023-12-03 21:24:01,021] {processor.py:153} INFO - Started process (PID=4840) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:24:01,021] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03 21:24:01,021] {logging_mixin.py:115} INFO - [2023-12-03 21:24:01,021] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:24:01,025] {processor.py:653} WARNING - No viable dags retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:24:01,046] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.033 seconds
+[2023-12-03 21:24:34,443] {processor.py:153} INFO - Started process (PID=5274) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:24:34,443] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03 21:24:34,443] {logging_mixin.py:115} INFO - [2023-12-03 21:24:34,443] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:24:34,445] {processor.py:653} WARNING - No viable dags retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:24:34,453] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.013 seconds
+[2023-12-03 21:25:07,529] {processor.py:153} INFO - Started process (PID=5319) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:25:07,530] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03 21:25:07,530] {logging_mixin.py:115} INFO - [2023-12-03 21:25:07,530] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:25:07,532] {processor.py:653} WARNING - No viable dags retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:25:07,541] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.014 seconds
+[2023-12-03 21:25:39,649] {processor.py:153} INFO - Started process (PID=5354) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:25:39,653] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03 21:25:39,653] {logging_mixin.py:115} INFO - [2023-12-03 21:25:39,653] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:25:39,655] {processor.py:653} WARNING - No viable dags retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:25:39,665] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.019 seconds
+[2023-12-03 21:26:11,970] {processor.py:153} INFO - Started process (PID=5388) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:26:11,970] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03 21:26:11,970] {logging_mixin.py:115} INFO - [2023-12-03 21:26:11,970] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:26:11,972] {processor.py:653} WARNING - No viable dags retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:26:11,983] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.016 seconds
+[2023-12-03 21:26:44,465] {processor.py:153} INFO - Started process (PID=5438) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:26:44,465] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03 21:26:44,465] {logging_mixin.py:115} INFO - [2023-12-03 21:26:44,465] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:26:44,467] {processor.py:653} WARNING - No viable dags retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:26:44,475] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.013 seconds
+[2023-12-03 21:27:17,055] {processor.py:153} INFO - Started process (PID=5472) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:27:17,056] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03 21:27:17,056] {logging_mixin.py:115} INFO - [2023-12-03 21:27:17,056] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:27:17,058] {processor.py:653} WARNING - No viable dags retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:27:17,067] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.015 seconds
+[2023-12-03 21:27:49,598] {processor.py:153} INFO - Started process (PID=5535) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:27:49,598] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03 21:27:49,598] {logging_mixin.py:115} INFO - [2023-12-03 21:27:49,598] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:27:49,600] {processor.py:653} WARNING - No viable dags retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:27:49,609] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.013 seconds
+[2023-12-03 21:28:23,699] {processor.py:153} INFO - Started process (PID=5576) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:28:23,700] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03 21:28:23,700] {logging_mixin.py:115} INFO - [2023-12-03 21:28:23,700] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:28:23,702] {processor.py:653} WARNING - No viable dags retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:28:23,710] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.013 seconds
+[2023-12-03 21:28:55,118] {processor.py:153} INFO - Started process (PID=5611) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:28:55,118] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03 21:28:55,119] {logging_mixin.py:115} INFO - [2023-12-03 21:28:55,119] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:28:55,120] {processor.py:653} WARNING - No viable dags retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:28:55,129] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.013 seconds
+[2023-12-03 21:29:28,607] {processor.py:153} INFO - Started process (PID=5656) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:29:28,608] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03 21:29:28,608] {logging_mixin.py:115} INFO - [2023-12-03 21:29:28,608] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:29:28,610] {processor.py:653} WARNING - No viable dags retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:29:28,619] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.014 seconds
+[2023-12-03 21:30:01,164] {processor.py:153} INFO - Started process (PID=5692) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:30:01,164] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03 21:30:01,164] {logging_mixin.py:115} INFO - [2023-12-03 21:30:01,164] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:30:01,166] {processor.py:653} WARNING - No viable dags retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:30:01,175] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.014 seconds
+[2023-12-03 21:30:31,947] {processor.py:153} INFO - Started process (PID=5734) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:30:31,948] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03 21:30:31,948] {logging_mixin.py:115} INFO - [2023-12-03 21:30:31,948] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:30:31,950] {processor.py:653} WARNING - No viable dags retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:30:31,959] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.014 seconds
+[2023-12-03 21:31:05,634] {processor.py:153} INFO - Started process (PID=5772) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:31:05,635] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03 21:31:05,635] {logging_mixin.py:115} INFO - [2023-12-03 21:31:05,635] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:31:05,637] {processor.py:653} WARNING - No viable dags retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:31:05,646] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.014 seconds
+[2023-12-03 21:31:37,860] {processor.py:153} INFO - Started process (PID=5806) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:31:37,861] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03 21:31:37,861] {logging_mixin.py:115} INFO - [2023-12-03 21:31:37,861] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:31:37,863] {processor.py:653} WARNING - No viable dags retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:31:37,872] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.015 seconds
+[2023-12-03 21:32:10,058] {processor.py:153} INFO - Started process (PID=5840) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:32:10,059] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03 21:32:10,061] {logging_mixin.py:115} INFO - [2023-12-03 21:32:10,059] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:32:10,063] {processor.py:653} WARNING - No viable dags retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:32:10,075] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.021 seconds
+[2023-12-03 21:32:43,982] {processor.py:153} INFO - Started process (PID=5878) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:32:43,983] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03 21:32:43,983] {logging_mixin.py:115} INFO - [2023-12-03 21:32:43,983] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:32:43,985] {processor.py:653} WARNING - No viable dags retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:32:43,993] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.013 seconds
+[2023-12-03 21:33:16,488] {processor.py:153} INFO - Started process (PID=5912) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:33:16,488] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03 21:33:16,489] {logging_mixin.py:115} INFO - [2023-12-03 21:33:16,489] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:33:16,490] {processor.py:653} WARNING - No viable dags retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:33:16,499] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.013 seconds
+[2023-12-03 21:33:48,716] {processor.py:153} INFO - Started process (PID=5946) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:33:48,716] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03 21:33:48,716] {logging_mixin.py:115} INFO - [2023-12-03 21:33:48,716] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:33:48,718] {processor.py:653} WARNING - No viable dags retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:33:48,726] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.013 seconds
+[2023-12-03 21:34:21,080] {processor.py:153} INFO - Started process (PID=5984) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:34:21,080] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03 21:34:21,081] {logging_mixin.py:115} INFO - [2023-12-03 21:34:21,080] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:34:21,082] {processor.py:653} WARNING - No viable dags retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:34:21,092] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.014 seconds
+[2023-12-03 21:34:53,719] {processor.py:153} INFO - Started process (PID=6018) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:34:53,719] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03 21:34:53,720] {logging_mixin.py:115} INFO - [2023-12-03 21:34:53,720] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:34:53,721] {processor.py:653} WARNING - No viable dags retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:34:53,732] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.016 seconds
+[2023-12-03 21:35:26,040] {processor.py:153} INFO - Started process (PID=6063) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:35:26,040] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-12-03 21:35:26,040] {logging_mixin.py:115} INFO - [2023-12-03 21:35:26,040] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:35:26,042] {processor.py:653} WARNING - No viable dags retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-12-03 21:35:26,050] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.013 seconds

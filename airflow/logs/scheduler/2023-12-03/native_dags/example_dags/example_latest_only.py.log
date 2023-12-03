@@ -1,0 +1,158 @@
+[2023-12-03 21:24:26,432] {processor.py:153} INFO - Started process (PID=5261) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:24:26,433] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-12-03 21:24:26,433] {logging_mixin.py:115} INFO - [2023-12-03 21:24:26,433] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:24:26,437] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:24:26,478] {logging_mixin.py:115} INFO - [2023-12-03 21:24:26,478] {manager.py:508} INFO - Created Permission View: can delete on DAG:latest_only
+[2023-12-03 21:24:26,484] {logging_mixin.py:115} INFO - [2023-12-03 21:24:26,484] {manager.py:508} INFO - Created Permission View: can edit on DAG:latest_only
+[2023-12-03 21:24:26,488] {logging_mixin.py:115} INFO - [2023-12-03 21:24:26,488] {manager.py:508} INFO - Created Permission View: can read on DAG:latest_only
+[2023-12-03 21:24:26,488] {logging_mixin.py:115} INFO - [2023-12-03 21:24:26,488] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:24:26,493] {logging_mixin.py:115} INFO - [2023-12-03 21:24:26,493] {dag.py:2390} INFO - Creating ORM DAG for latest_only
+[2023-12-03 21:24:26,498] {logging_mixin.py:115} INFO - [2023-12-03 21:24:26,498] {dag.py:2915} INFO - Setting next_dagrun for latest_only to 2023-12-03T12:24:26.498366+00:00, run_after=2023-12-03T16:24:26.498366+00:00
+[2023-12-03 21:24:26,507] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.077 seconds
+[2023-12-03 21:24:58,358] {processor.py:153} INFO - Started process (PID=5299) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:24:58,359] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-12-03 21:24:58,359] {logging_mixin.py:115} INFO - [2023-12-03 21:24:58,359] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:24:58,363] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:24:58,376] {logging_mixin.py:115} INFO - [2023-12-03 21:24:58,376] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:24:58,389] {logging_mixin.py:115} INFO - [2023-12-03 21:24:58,389] {dag.py:2915} INFO - Setting next_dagrun for latest_only to 2023-12-03T12:24:58.388954+00:00, run_after=2023-12-03T16:24:58.388954+00:00
+[2023-12-03 21:24:58,396] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.040 seconds
+[2023-12-03 21:25:32,036] {processor.py:153} INFO - Started process (PID=5345) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:25:32,036] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-12-03 21:25:32,037] {logging_mixin.py:115} INFO - [2023-12-03 21:25:32,037] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:25:32,041] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:25:32,053] {logging_mixin.py:115} INFO - [2023-12-03 21:25:32,053] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:25:32,066] {logging_mixin.py:115} INFO - [2023-12-03 21:25:32,066] {dag.py:2915} INFO - Setting next_dagrun for latest_only to 2023-12-03T12:25:32.066313+00:00, run_after=2023-12-03T16:25:32.066313+00:00
+[2023-12-03 21:25:32,074] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.041 seconds
+[2023-12-03 21:26:02,832] {processor.py:153} INFO - Started process (PID=5379) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:26:02,833] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-12-03 21:26:02,833] {logging_mixin.py:115} INFO - [2023-12-03 21:26:02,833] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:26:02,837] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:26:02,860] {logging_mixin.py:115} INFO - [2023-12-03 21:26:02,860] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:26:02,877] {logging_mixin.py:115} INFO - [2023-12-03 21:26:02,877] {dag.py:2915} INFO - Setting next_dagrun for latest_only to 2023-12-03T12:26:02.876820+00:00, run_after=2023-12-03T16:26:02.876820+00:00
+[2023-12-03 21:26:02,884] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.054 seconds
+[2023-12-03 21:26:36,498] {processor.py:153} INFO - Started process (PID=5429) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:26:36,499] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-12-03 21:26:36,500] {logging_mixin.py:115} INFO - [2023-12-03 21:26:36,500] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:26:36,504] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:26:36,517] {logging_mixin.py:115} INFO - [2023-12-03 21:26:36,517] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:26:36,529] {logging_mixin.py:115} INFO - [2023-12-03 21:26:36,529] {dag.py:2915} INFO - Setting next_dagrun for latest_only to 2023-12-03T12:26:36.529564+00:00, run_after=2023-12-03T16:26:36.529564+00:00
+[2023-12-03 21:26:36,537] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.041 seconds
+[2023-12-03 21:27:07,407] {processor.py:153} INFO - Started process (PID=5463) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:27:07,407] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-12-03 21:27:07,407] {logging_mixin.py:115} INFO - [2023-12-03 21:27:07,407] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:27:07,412] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:27:07,424] {logging_mixin.py:115} INFO - [2023-12-03 21:27:07,424] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:27:07,437] {logging_mixin.py:115} INFO - [2023-12-03 21:27:07,437] {dag.py:2915} INFO - Setting next_dagrun for latest_only to 2023-12-03T12:27:07.437446+00:00, run_after=2023-12-03T16:27:07.437446+00:00
+[2023-12-03 21:27:07,445] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.041 seconds
+[2023-12-03 21:27:40,684] {processor.py:153} INFO - Started process (PID=5515) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:27:40,685] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-12-03 21:27:40,685] {logging_mixin.py:115} INFO - [2023-12-03 21:27:40,685] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:27:40,689] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:27:40,711] {logging_mixin.py:115} INFO - [2023-12-03 21:27:40,711] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:27:40,725] {logging_mixin.py:115} INFO - [2023-12-03 21:27:40,725] {dag.py:2915} INFO - Setting next_dagrun for latest_only to 2023-12-03T12:27:40.724974+00:00, run_after=2023-12-03T16:27:40.724974+00:00
+[2023-12-03 21:27:40,732] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.051 seconds
+[2023-12-03 21:28:15,192] {processor.py:153} INFO - Started process (PID=5567) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:28:15,193] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-12-03 21:28:15,193] {logging_mixin.py:115} INFO - [2023-12-03 21:28:15,193] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:28:15,197] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:28:15,210] {logging_mixin.py:115} INFO - [2023-12-03 21:28:15,209] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:28:15,222] {logging_mixin.py:115} INFO - [2023-12-03 21:28:15,222] {dag.py:2915} INFO - Setting next_dagrun for latest_only to 2023-12-03T12:28:15.222478+00:00, run_after=2023-12-03T16:28:15.222478+00:00
+[2023-12-03 21:28:15,230] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.040 seconds
+[2023-12-03 21:28:46,974] {processor.py:153} INFO - Started process (PID=5602) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:28:46,974] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-12-03 21:28:46,975] {logging_mixin.py:115} INFO - [2023-12-03 21:28:46,975] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:28:46,979] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:28:46,992] {logging_mixin.py:115} INFO - [2023-12-03 21:28:46,992] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:28:47,004] {logging_mixin.py:115} INFO - [2023-12-03 21:28:47,004] {dag.py:2915} INFO - Setting next_dagrun for latest_only to 2023-12-03T12:28:47.004601+00:00, run_after=2023-12-03T16:28:47.004601+00:00
+[2023-12-03 21:28:47,012] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.040 seconds
+[2023-12-03 21:29:19,607] {processor.py:153} INFO - Started process (PID=5643) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:29:19,607] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-12-03 21:29:19,608] {logging_mixin.py:115} INFO - [2023-12-03 21:29:19,608] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:29:19,612] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:29:19,625] {logging_mixin.py:115} INFO - [2023-12-03 21:29:19,625] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:29:19,638] {logging_mixin.py:115} INFO - [2023-12-03 21:29:19,638] {dag.py:2915} INFO - Setting next_dagrun for latest_only to 2023-12-03T12:29:19.638678+00:00, run_after=2023-12-03T16:29:19.638678+00:00
+[2023-12-03 21:29:19,646] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.042 seconds
+[2023-12-03 21:29:51,534] {processor.py:153} INFO - Started process (PID=5681) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:29:51,534] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-12-03 21:29:51,534] {logging_mixin.py:115} INFO - [2023-12-03 21:29:51,534] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:29:51,539] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:29:51,551] {logging_mixin.py:115} INFO - [2023-12-03 21:29:51,551] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:29:51,565] {logging_mixin.py:115} INFO - [2023-12-03 21:29:51,565] {dag.py:2915} INFO - Setting next_dagrun for latest_only to 2023-12-03T12:29:51.564816+00:00, run_after=2023-12-03T16:29:51.564816+00:00
+[2023-12-03 21:29:51,573] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.041 seconds
+[2023-12-03 21:30:23,438] {processor.py:153} INFO - Started process (PID=5720) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:30:23,438] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-12-03 21:30:23,438] {logging_mixin.py:115} INFO - [2023-12-03 21:30:23,438] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:30:23,443] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:30:23,455] {logging_mixin.py:115} INFO - [2023-12-03 21:30:23,455] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:30:23,468] {logging_mixin.py:115} INFO - [2023-12-03 21:30:23,468] {dag.py:2915} INFO - Setting next_dagrun for latest_only to 2023-12-03T12:30:23.468318+00:00, run_after=2023-12-03T16:30:23.468318+00:00
+[2023-12-03 21:30:23,476] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.041 seconds
+[2023-12-03 21:30:57,078] {processor.py:153} INFO - Started process (PID=5763) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:30:57,078] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-12-03 21:30:57,079] {logging_mixin.py:115} INFO - [2023-12-03 21:30:57,079] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:30:57,084] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:30:57,097] {logging_mixin.py:115} INFO - [2023-12-03 21:30:57,097] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:30:57,111] {logging_mixin.py:115} INFO - [2023-12-03 21:30:57,111] {dag.py:2915} INFO - Setting next_dagrun for latest_only to 2023-12-03T12:30:57.111036+00:00, run_after=2023-12-03T16:30:57.111036+00:00
+[2023-12-03 21:30:57,119] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.044 seconds
+[2023-12-03 21:31:29,001] {processor.py:153} INFO - Started process (PID=5797) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:31:29,002] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-12-03 21:31:29,002] {logging_mixin.py:115} INFO - [2023-12-03 21:31:29,002] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:31:29,007] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:31:29,020] {logging_mixin.py:115} INFO - [2023-12-03 21:31:29,020] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:31:29,033] {logging_mixin.py:115} INFO - [2023-12-03 21:31:29,033] {dag.py:2915} INFO - Setting next_dagrun for latest_only to 2023-12-03T12:31:29.033658+00:00, run_after=2023-12-03T16:31:29.033658+00:00
+[2023-12-03 21:31:29,041] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.044 seconds
+[2023-12-03 21:32:00,921] {processor.py:153} INFO - Started process (PID=5831) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:32:00,921] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-12-03 21:32:00,922] {logging_mixin.py:115} INFO - [2023-12-03 21:32:00,922] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:32:00,926] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:32:00,939] {logging_mixin.py:115} INFO - [2023-12-03 21:32:00,939] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:32:00,952] {logging_mixin.py:115} INFO - [2023-12-03 21:32:00,951] {dag.py:2915} INFO - Setting next_dagrun for latest_only to 2023-12-03T12:32:00.951725+00:00, run_after=2023-12-03T16:32:00.951725+00:00
+[2023-12-03 21:32:00,959] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.040 seconds
+[2023-12-03 21:32:35,100] {processor.py:153} INFO - Started process (PID=5866) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:32:35,101] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-12-03 21:32:35,101] {logging_mixin.py:115} INFO - [2023-12-03 21:32:35,101] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:32:35,106] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:32:35,118] {logging_mixin.py:115} INFO - [2023-12-03 21:32:35,117] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:32:35,131] {logging_mixin.py:115} INFO - [2023-12-03 21:32:35,130] {dag.py:2915} INFO - Setting next_dagrun for latest_only to 2023-12-03T12:32:35.130736+00:00, run_after=2023-12-03T16:32:35.130736+00:00
+[2023-12-03 21:32:35,139] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.041 seconds
+[2023-12-03 21:33:08,780] {processor.py:153} INFO - Started process (PID=5903) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:33:08,780] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-12-03 21:33:08,781] {logging_mixin.py:115} INFO - [2023-12-03 21:33:08,781] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:33:08,785] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:33:08,799] {logging_mixin.py:115} INFO - [2023-12-03 21:33:08,799] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:33:08,814] {logging_mixin.py:115} INFO - [2023-12-03 21:33:08,814] {dag.py:2915} INFO - Setting next_dagrun for latest_only to 2023-12-03T12:33:08.813953+00:00, run_after=2023-12-03T16:33:08.813953+00:00
+[2023-12-03 21:33:08,822] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.044 seconds
+[2023-12-03 21:33:40,562] {processor.py:153} INFO - Started process (PID=5937) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:33:40,563] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-12-03 21:33:40,563] {logging_mixin.py:115} INFO - [2023-12-03 21:33:40,563] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:33:40,568] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:33:40,580] {logging_mixin.py:115} INFO - [2023-12-03 21:33:40,580] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:33:40,593] {logging_mixin.py:115} INFO - [2023-12-03 21:33:40,593] {dag.py:2915} INFO - Setting next_dagrun for latest_only to 2023-12-03T12:33:40.592941+00:00, run_after=2023-12-03T16:33:40.592941+00:00
+[2023-12-03 21:33:40,600] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.041 seconds
+[2023-12-03 21:34:12,434] {processor.py:153} INFO - Started process (PID=5974) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:34:12,435] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-12-03 21:34:12,435] {logging_mixin.py:115} INFO - [2023-12-03 21:34:12,435] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:34:12,440] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:34:12,453] {logging_mixin.py:115} INFO - [2023-12-03 21:34:12,453] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:34:12,467] {logging_mixin.py:115} INFO - [2023-12-03 21:34:12,467] {dag.py:2915} INFO - Setting next_dagrun for latest_only to 2023-12-03T12:34:12.466817+00:00, run_after=2023-12-03T16:34:12.466817+00:00
+[2023-12-03 21:34:12,476] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.044 seconds
+[2023-12-03 21:34:44,954] {processor.py:153} INFO - Started process (PID=6009) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:34:44,955] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-12-03 21:34:44,955] {logging_mixin.py:115} INFO - [2023-12-03 21:34:44,955] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:34:44,959] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:34:44,972] {logging_mixin.py:115} INFO - [2023-12-03 21:34:44,972] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:34:44,985] {logging_mixin.py:115} INFO - [2023-12-03 21:34:44,985] {dag.py:2915} INFO - Setting next_dagrun for latest_only to 2023-12-03T12:34:44.984793+00:00, run_after=2023-12-03T16:34:44.984793+00:00
+[2023-12-03 21:34:44,992] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.041 seconds
+[2023-12-03 21:35:16,890] {processor.py:153} INFO - Started process (PID=6053) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:35:16,890] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-12-03 21:35:16,891] {logging_mixin.py:115} INFO - [2023-12-03 21:35:16,891] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:35:16,895] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:35:16,908] {logging_mixin.py:115} INFO - [2023-12-03 21:35:16,907] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:35:16,920] {logging_mixin.py:115} INFO - [2023-12-03 21:35:16,920] {dag.py:2915} INFO - Setting next_dagrun for latest_only to 2023-12-03T12:35:16.920515+00:00, run_after=2023-12-03T16:35:16.920515+00:00
+[2023-12-03 21:35:16,928] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.040 seconds
+[2023-12-03 21:35:51,135] {processor.py:153} INFO - Started process (PID=6089) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:35:51,135] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-12-03 21:35:51,136] {logging_mixin.py:115} INFO - [2023-12-03 21:35:51,136] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:35:51,140] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py
+[2023-12-03 21:35:51,153] {logging_mixin.py:115} INFO - [2023-12-03 21:35:51,152] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:35:51,165] {logging_mixin.py:115} INFO - [2023-12-03 21:35:51,165] {dag.py:2915} INFO - Setting next_dagrun for latest_only to 2023-12-03T12:35:51.165556+00:00, run_after=2023-12-03T16:35:51.165556+00:00
+[2023-12-03 21:35:51,174] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py took 0.042 seconds

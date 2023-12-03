@@ -1,0 +1,110 @@
+[2023-12-03 21:24:02,159] {processor.py:153} INFO - Started process (PID=5001) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:24:02,160] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-03 21:24:02,161] {logging_mixin.py:115} INFO - [2023-12-03 21:24:02,160] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:24:02,166] {processor.py:653} WARNING - No viable dags retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:24:02,187] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.037 seconds
+[2023-12-03 21:24:35,567] {processor.py:153} INFO - Started process (PID=5275) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:24:35,568] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-03 21:24:35,568] {logging_mixin.py:115} INFO - [2023-12-03 21:24:35,568] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:24:35,569] {processor.py:653} WARNING - No viable dags retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:24:35,577] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.012 seconds
+[2023-12-03 21:25:08,263] {processor.py:153} INFO - Started process (PID=5320) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:25:08,263] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-03 21:25:08,263] {logging_mixin.py:115} INFO - [2023-12-03 21:25:08,263] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:25:08,265] {processor.py:653} WARNING - No viable dags retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:25:08,273] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.013 seconds
+[2023-12-03 21:25:40,040] {processor.py:153} INFO - Started process (PID=5355) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:25:40,040] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-03 21:25:40,040] {logging_mixin.py:115} INFO - [2023-12-03 21:25:40,040] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:25:40,042] {processor.py:653} WARNING - No viable dags retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:25:40,050] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.013 seconds
+[2023-12-03 21:26:13,096] {processor.py:153} INFO - Started process (PID=5389) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:26:13,097] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-03 21:26:13,097] {logging_mixin.py:115} INFO - [2023-12-03 21:26:13,097] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:26:13,098] {processor.py:653} WARNING - No viable dags retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:26:13,107] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.013 seconds
+[2023-12-03 21:26:45,591] {processor.py:153} INFO - Started process (PID=5439) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:26:45,592] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-03 21:26:45,592] {logging_mixin.py:115} INFO - [2023-12-03 21:26:45,592] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:26:45,593] {processor.py:653} WARNING - No viable dags retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:26:45,602] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.012 seconds
+[2023-12-03 21:27:17,677] {processor.py:153} INFO - Started process (PID=5473) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:27:17,678] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-03 21:27:17,678] {logging_mixin.py:115} INFO - [2023-12-03 21:27:17,678] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:27:17,680] {processor.py:653} WARNING - No viable dags retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:27:17,693] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.022 seconds
+[2023-12-03 21:27:50,723] {processor.py:153} INFO - Started process (PID=5536) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:27:50,724] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-03 21:27:50,724] {logging_mixin.py:115} INFO - [2023-12-03 21:27:50,724] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:27:50,725] {processor.py:653} WARNING - No viable dags retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:27:50,734] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.013 seconds
+[2023-12-03 21:28:24,322] {processor.py:153} INFO - Started process (PID=5577) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:28:24,322] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-03 21:28:24,323] {logging_mixin.py:115} INFO - [2023-12-03 21:28:24,323] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:28:24,324] {processor.py:653} WARNING - No viable dags retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:28:24,332] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.013 seconds
+[2023-12-03 21:28:55,973] {processor.py:153} INFO - Started process (PID=5612) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:28:55,973] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-03 21:28:55,974] {logging_mixin.py:115} INFO - [2023-12-03 21:28:55,973] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:28:55,975] {processor.py:653} WARNING - No viable dags retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:28:55,983] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.013 seconds
+[2023-12-03 21:29:29,733] {processor.py:153} INFO - Started process (PID=5657) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:29:29,733] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-03 21:29:29,733] {logging_mixin.py:115} INFO - [2023-12-03 21:29:29,733] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:29:29,735] {processor.py:653} WARNING - No viable dags retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:29:29,743] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.013 seconds
+[2023-12-03 21:30:01,775] {processor.py:153} INFO - Started process (PID=5695) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:30:01,776] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-03 21:30:01,776] {logging_mixin.py:115} INFO - [2023-12-03 21:30:01,776] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:30:01,777] {processor.py:653} WARNING - No viable dags retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:30:01,786] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.013 seconds
+[2023-12-03 21:30:32,577] {processor.py:153} INFO - Started process (PID=5737) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:30:32,577] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-03 21:30:32,577] {logging_mixin.py:115} INFO - [2023-12-03 21:30:32,577] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:30:32,581] {processor.py:653} WARNING - No viable dags retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:30:32,603] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.034 seconds
+[2023-12-03 21:31:06,760] {processor.py:153} INFO - Started process (PID=5773) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:31:06,760] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-03 21:31:06,760] {logging_mixin.py:115} INFO - [2023-12-03 21:31:06,760] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:31:06,762] {processor.py:653} WARNING - No viable dags retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:31:06,770] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.013 seconds
+[2023-12-03 21:31:38,988] {processor.py:153} INFO - Started process (PID=5807) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:31:38,989] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-03 21:31:38,989] {logging_mixin.py:115} INFO - [2023-12-03 21:31:38,989] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:31:38,990] {processor.py:653} WARNING - No viable dags retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:31:39,002] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.017 seconds
+[2023-12-03 21:32:11,189] {processor.py:153} INFO - Started process (PID=5841) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:32:11,189] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-03 21:32:11,190] {logging_mixin.py:115} INFO - [2023-12-03 21:32:11,190] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:32:11,191] {processor.py:653} WARNING - No viable dags retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:32:11,200] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.013 seconds
+[2023-12-03 21:32:45,108] {processor.py:153} INFO - Started process (PID=5879) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:32:45,109] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-03 21:32:45,109] {logging_mixin.py:115} INFO - [2023-12-03 21:32:45,109] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:32:45,110] {processor.py:653} WARNING - No viable dags retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:32:45,119] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.013 seconds
+[2023-12-03 21:33:16,783] {processor.py:153} INFO - Started process (PID=5913) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:33:16,783] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-03 21:33:16,784] {logging_mixin.py:115} INFO - [2023-12-03 21:33:16,783] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:33:16,785] {processor.py:653} WARNING - No viable dags retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:33:16,793] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.013 seconds
+[2023-12-03 21:33:49,562] {processor.py:153} INFO - Started process (PID=5947) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:33:49,562] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-03 21:33:49,562] {logging_mixin.py:115} INFO - [2023-12-03 21:33:49,562] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:33:49,564] {processor.py:653} WARNING - No viable dags retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:33:49,572] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.013 seconds
+[2023-12-03 21:34:22,206] {processor.py:153} INFO - Started process (PID=5985) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:34:22,206] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-03 21:34:22,207] {logging_mixin.py:115} INFO - [2023-12-03 21:34:22,207] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:34:22,208] {processor.py:653} WARNING - No viable dags retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:34:22,217] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.014 seconds
+[2023-12-03 21:34:54,089] {processor.py:153} INFO - Started process (PID=6019) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:34:54,089] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-03 21:34:54,089] {logging_mixin.py:115} INFO - [2023-12-03 21:34:54,089] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:34:54,091] {processor.py:653} WARNING - No viable dags retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:34:54,101] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.015 seconds
+[2023-12-03 21:35:27,166] {processor.py:153} INFO - Started process (PID=6064) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:35:27,166] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2023-12-03 21:35:27,167] {logging_mixin.py:115} INFO - [2023-12-03 21:35:27,166] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:35:27,168] {processor.py:653} WARNING - No viable dags retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py
+[2023-12-03 21:35:27,177] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py took 0.014 seconds

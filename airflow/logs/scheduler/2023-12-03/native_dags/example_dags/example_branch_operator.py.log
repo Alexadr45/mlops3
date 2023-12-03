@@ -1,0 +1,158 @@
+[2023-12-03 21:24:08,787] {processor.py:153} INFO - Started process (PID=5240) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:24:08,787] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-12-03 21:24:08,788] {logging_mixin.py:115} INFO - [2023-12-03 21:24:08,788] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:24:08,806] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:24:08,906] {logging_mixin.py:115} INFO - [2023-12-03 21:24:08,906] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_branch_operator
+[2023-12-03 21:24:08,920] {logging_mixin.py:115} INFO - [2023-12-03 21:24:08,919] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_branch_operator
+[2023-12-03 21:24:08,930] {logging_mixin.py:115} INFO - [2023-12-03 21:24:08,930] {manager.py:508} INFO - Created Permission View: can read on DAG:example_branch_operator
+[2023-12-03 21:24:08,930] {logging_mixin.py:115} INFO - [2023-12-03 21:24:08,930] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:24:08,940] {logging_mixin.py:115} INFO - [2023-12-03 21:24:08,940] {dag.py:2390} INFO - Creating ORM DAG for example_branch_operator
+[2023-12-03 21:24:08,952] {logging_mixin.py:115} INFO - [2023-12-03 21:24:08,952] {dag.py:2915} INFO - Setting next_dagrun for example_branch_operator to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:24:08,968] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.191 seconds
+[2023-12-03 21:24:40,699] {processor.py:153} INFO - Started process (PID=5281) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:24:40,700] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-12-03 21:24:40,700] {logging_mixin.py:115} INFO - [2023-12-03 21:24:40,700] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:24:40,708] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:24:40,721] {logging_mixin.py:115} INFO - [2023-12-03 21:24:40,721] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:24:40,735] {logging_mixin.py:115} INFO - [2023-12-03 21:24:40,735] {dag.py:2915} INFO - Setting next_dagrun for example_branch_operator to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:24:40,743] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.046 seconds
+[2023-12-03 21:25:14,404] {processor.py:153} INFO - Started process (PID=5327) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:25:14,404] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-12-03 21:25:14,405] {logging_mixin.py:115} INFO - [2023-12-03 21:25:14,405] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:25:14,413] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:25:14,425] {logging_mixin.py:115} INFO - [2023-12-03 21:25:14,425] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:25:14,439] {logging_mixin.py:115} INFO - [2023-12-03 21:25:14,439] {dag.py:2915} INFO - Setting next_dagrun for example_branch_operator to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:25:14,447] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.045 seconds
+[2023-12-03 21:25:45,172] {processor.py:153} INFO - Started process (PID=5361) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:25:45,173] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-12-03 21:25:45,173] {logging_mixin.py:115} INFO - [2023-12-03 21:25:45,173] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:25:45,181] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:25:45,193] {logging_mixin.py:115} INFO - [2023-12-03 21:25:45,193] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:25:45,207] {logging_mixin.py:115} INFO - [2023-12-03 21:25:45,207] {dag.py:2915} INFO - Setting next_dagrun for example_branch_operator to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:25:45,214] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.044 seconds
+[2023-12-03 21:26:19,357] {processor.py:153} INFO - Started process (PID=5395) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:26:19,358] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-12-03 21:26:19,358] {logging_mixin.py:115} INFO - [2023-12-03 21:26:19,358] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:26:19,366] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:26:19,378] {logging_mixin.py:115} INFO - [2023-12-03 21:26:19,378] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:26:19,392] {logging_mixin.py:115} INFO - [2023-12-03 21:26:19,392] {dag.py:2915} INFO - Setting next_dagrun for example_branch_operator to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:26:19,399] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.045 seconds
+[2023-12-03 21:26:51,381] {processor.py:153} INFO - Started process (PID=5445) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:26:51,382] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-12-03 21:26:51,382] {logging_mixin.py:115} INFO - [2023-12-03 21:26:51,382] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:26:51,390] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:26:51,403] {logging_mixin.py:115} INFO - [2023-12-03 21:26:51,402] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:26:51,416] {logging_mixin.py:115} INFO - [2023-12-03 21:26:51,416] {dag.py:2915} INFO - Setting next_dagrun for example_branch_operator to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:26:51,425] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.046 seconds
+[2023-12-03 21:27:23,938] {processor.py:153} INFO - Started process (PID=5479) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:27:23,938] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-12-03 21:27:23,939] {logging_mixin.py:115} INFO - [2023-12-03 21:27:23,938] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:27:23,947] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:27:23,960] {logging_mixin.py:115} INFO - [2023-12-03 21:27:23,960] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:27:23,978] {logging_mixin.py:115} INFO - [2023-12-03 21:27:23,978] {dag.py:2915} INFO - Setting next_dagrun for example_branch_operator to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:27:23,987] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.052 seconds
+[2023-12-03 21:27:56,436] {processor.py:153} INFO - Started process (PID=5542) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:27:56,437] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-12-03 21:27:56,437] {logging_mixin.py:115} INFO - [2023-12-03 21:27:56,437] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:27:56,445] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:27:56,457] {logging_mixin.py:115} INFO - [2023-12-03 21:27:56,457] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:27:56,471] {logging_mixin.py:115} INFO - [2023-12-03 21:27:56,470] {dag.py:2915} INFO - Setting next_dagrun for example_branch_operator to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:27:56,478] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.044 seconds
+[2023-12-03 21:28:29,456] {processor.py:153} INFO - Started process (PID=5584) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:28:29,456] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-12-03 21:28:29,456] {logging_mixin.py:115} INFO - [2023-12-03 21:28:29,456] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:28:29,464] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:28:29,477] {logging_mixin.py:115} INFO - [2023-12-03 21:28:29,477] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:28:29,491] {logging_mixin.py:115} INFO - [2023-12-03 21:28:29,491] {dag.py:2915} INFO - Setting next_dagrun for example_branch_operator to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:28:29,498] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.045 seconds
+[2023-12-03 21:29:02,508] {processor.py:153} INFO - Started process (PID=5624) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:29:02,508] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-12-03 21:29:02,509] {logging_mixin.py:115} INFO - [2023-12-03 21:29:02,509] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:29:02,517] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:29:02,539] {logging_mixin.py:115} INFO - [2023-12-03 21:29:02,538] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:29:02,553] {logging_mixin.py:115} INFO - [2023-12-03 21:29:02,553] {dag.py:2915} INFO - Setting next_dagrun for example_branch_operator to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:29:02,561] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.055 seconds
+[2023-12-03 21:29:35,516] {processor.py:153} INFO - Started process (PID=5663) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:29:35,516] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-12-03 21:29:35,516] {logging_mixin.py:115} INFO - [2023-12-03 21:29:35,516] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:29:35,524] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:29:35,539] {logging_mixin.py:115} INFO - [2023-12-03 21:29:35,539] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:29:35,550] {logging_mixin.py:115} INFO - [2023-12-03 21:29:35,550] {dag.py:2915} INFO - Setting next_dagrun for example_branch_operator to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:29:35,558] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.045 seconds
+[2023-12-03 21:30:06,908] {processor.py:153} INFO - Started process (PID=5702) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:30:06,908] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-12-03 21:30:06,908] {logging_mixin.py:115} INFO - [2023-12-03 21:30:06,908] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:30:06,917] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:30:06,931] {logging_mixin.py:115} INFO - [2023-12-03 21:30:06,931] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:30:06,943] {logging_mixin.py:115} INFO - [2023-12-03 21:30:06,943] {dag.py:2915} INFO - Setting next_dagrun for example_branch_operator to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:30:06,950] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.045 seconds
+[2023-12-03 21:30:38,835] {processor.py:153} INFO - Started process (PID=5745) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:30:38,836] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-12-03 21:30:38,836] {logging_mixin.py:115} INFO - [2023-12-03 21:30:38,836] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:30:38,845] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:30:38,860] {logging_mixin.py:115} INFO - [2023-12-03 21:30:38,860] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:30:38,873] {logging_mixin.py:115} INFO - [2023-12-03 21:30:38,873] {dag.py:2915} INFO - Setting next_dagrun for example_branch_operator to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:30:38,881] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.048 seconds
+[2023-12-03 21:31:12,203] {processor.py:153} INFO - Started process (PID=5779) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:31:12,203] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-12-03 21:31:12,204] {logging_mixin.py:115} INFO - [2023-12-03 21:31:12,204] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:31:12,215] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:31:12,230] {logging_mixin.py:115} INFO - [2023-12-03 21:31:12,230] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:31:12,242] {logging_mixin.py:115} INFO - [2023-12-03 21:31:12,242] {dag.py:2915} INFO - Setting next_dagrun for example_branch_operator to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:31:12,250] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.049 seconds
+[2023-12-03 21:31:44,390] {processor.py:153} INFO - Started process (PID=5813) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:31:44,391] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-12-03 21:31:44,391] {logging_mixin.py:115} INFO - [2023-12-03 21:31:44,391] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:31:44,401] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:31:44,415] {logging_mixin.py:115} INFO - [2023-12-03 21:31:44,415] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:31:44,427] {logging_mixin.py:115} INFO - [2023-12-03 21:31:44,427] {dag.py:2915} INFO - Setting next_dagrun for example_branch_operator to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:31:44,435] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.047 seconds
+[2023-12-03 21:32:16,323] {processor.py:153} INFO - Started process (PID=5847) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:32:16,324] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-12-03 21:32:16,324] {logging_mixin.py:115} INFO - [2023-12-03 21:32:16,324] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:32:16,333] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:32:16,350] {logging_mixin.py:115} INFO - [2023-12-03 21:32:16,350] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:32:16,363] {logging_mixin.py:115} INFO - [2023-12-03 21:32:16,363] {dag.py:2915} INFO - Setting next_dagrun for example_branch_operator to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:32:16,373] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.053 seconds
+[2023-12-03 21:32:51,121] {processor.py:153} INFO - Started process (PID=5885) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:32:51,122] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-12-03 21:32:51,122] {logging_mixin.py:115} INFO - [2023-12-03 21:32:51,122] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:32:51,130] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:32:51,145] {logging_mixin.py:115} INFO - [2023-12-03 21:32:51,145] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:32:51,157] {logging_mixin.py:115} INFO - [2023-12-03 21:32:51,157] {dag.py:2915} INFO - Setting next_dagrun for example_branch_operator to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:32:51,164] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.045 seconds
+[2023-12-03 21:33:21,915] {processor.py:153} INFO - Started process (PID=5919) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:33:21,916] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-12-03 21:33:21,916] {logging_mixin.py:115} INFO - [2023-12-03 21:33:21,916] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:33:21,924] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:33:21,939] {logging_mixin.py:115} INFO - [2023-12-03 21:33:21,939] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:33:21,951] {logging_mixin.py:115} INFO - [2023-12-03 21:33:21,951] {dag.py:2915} INFO - Setting next_dagrun for example_branch_operator to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:33:21,958] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.046 seconds
+[2023-12-03 21:33:55,989] {processor.py:153} INFO - Started process (PID=5953) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:33:55,989] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-12-03 21:33:55,990] {logging_mixin.py:115} INFO - [2023-12-03 21:33:55,990] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:33:55,998] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:33:56,016] {logging_mixin.py:115} INFO - [2023-12-03 21:33:56,016] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:33:56,028] {logging_mixin.py:115} INFO - [2023-12-03 21:33:56,028] {dag.py:2915} INFO - Setting next_dagrun for example_branch_operator to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:33:56,035] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.049 seconds
+[2023-12-03 21:34:28,463] {processor.py:153} INFO - Started process (PID=5991) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:34:28,464] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-12-03 21:34:28,464] {logging_mixin.py:115} INFO - [2023-12-03 21:34:28,464] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:34:28,473] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:34:28,487] {logging_mixin.py:115} INFO - [2023-12-03 21:34:28,487] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:34:28,498] {logging_mixin.py:115} INFO - [2023-12-03 21:34:28,498] {dag.py:2915} INFO - Setting next_dagrun for example_branch_operator to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:34:28,507] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.046 seconds
+[2023-12-03 21:34:59,224] {processor.py:153} INFO - Started process (PID=6027) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:34:59,224] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-12-03 21:34:59,225] {logging_mixin.py:115} INFO - [2023-12-03 21:34:59,225] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:34:59,233] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:34:59,248] {logging_mixin.py:115} INFO - [2023-12-03 21:34:59,248] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:34:59,261] {logging_mixin.py:115} INFO - [2023-12-03 21:34:59,261] {dag.py:2915} INFO - Setting next_dagrun for example_branch_operator to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:34:59,269] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.047 seconds
+[2023-12-03 21:35:33,133] {processor.py:153} INFO - Started process (PID=6070) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:35:33,134] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-12-03 21:35:33,134] {logging_mixin.py:115} INFO - [2023-12-03 21:35:33,134] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:35:33,147] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-12-03 21:35:33,172] {logging_mixin.py:115} INFO - [2023-12-03 21:35:33,172] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:35:33,192] {logging_mixin.py:115} INFO - [2023-12-03 21:35:33,192] {dag.py:2915} INFO - Setting next_dagrun for example_branch_operator to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:35:33,206] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py took 0.077 seconds

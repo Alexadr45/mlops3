@@ -1,0 +1,158 @@
+[2023-12-03 21:24:11,270] {processor.py:153} INFO - Started process (PID=5242) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:24:11,271] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-12-03 21:24:11,271] {logging_mixin.py:115} INFO - [2023-12-03 21:24:11,271] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:24:11,280] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:24:11,324] {logging_mixin.py:115} INFO - [2023-12-03 21:24:11,324] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_bash_operator
+[2023-12-03 21:24:11,329] {logging_mixin.py:115} INFO - [2023-12-03 21:24:11,329] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_bash_operator
+[2023-12-03 21:24:11,333] {logging_mixin.py:115} INFO - [2023-12-03 21:24:11,333] {manager.py:508} INFO - Created Permission View: can read on DAG:example_bash_operator
+[2023-12-03 21:24:11,333] {logging_mixin.py:115} INFO - [2023-12-03 21:24:11,333] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:24:11,337] {logging_mixin.py:115} INFO - [2023-12-03 21:24:11,337] {dag.py:2390} INFO - Creating ORM DAG for example_bash_operator
+[2023-12-03 21:24:11,343] {logging_mixin.py:115} INFO - [2023-12-03 21:24:11,343] {dag.py:2915} INFO - Setting next_dagrun for example_bash_operator to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:24:11,352] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.084 seconds
+[2023-12-03 21:24:42,957] {processor.py:153} INFO - Started process (PID=5283) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:24:42,957] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-12-03 21:24:42,958] {logging_mixin.py:115} INFO - [2023-12-03 21:24:42,958] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:24:42,967] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:24:42,985] {logging_mixin.py:115} INFO - [2023-12-03 21:24:42,985] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:24:42,999] {logging_mixin.py:115} INFO - [2023-12-03 21:24:42,999] {dag.py:2915} INFO - Setting next_dagrun for example_bash_operator to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:24:43,007] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.053 seconds
+[2023-12-03 21:25:16,673] {processor.py:153} INFO - Started process (PID=5329) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:25:16,674] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-12-03 21:25:16,674] {logging_mixin.py:115} INFO - [2023-12-03 21:25:16,674] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:25:16,683] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:25:16,697] {logging_mixin.py:115} INFO - [2023-12-03 21:25:16,697] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:25:16,709] {logging_mixin.py:115} INFO - [2023-12-03 21:25:16,709] {dag.py:2915} INFO - Setting next_dagrun for example_bash_operator to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:25:16,716] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.045 seconds
+[2023-12-03 21:25:47,429] {processor.py:153} INFO - Started process (PID=5363) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:25:47,429] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-12-03 21:25:47,430] {logging_mixin.py:115} INFO - [2023-12-03 21:25:47,430] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:25:47,439] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:25:47,457] {logging_mixin.py:115} INFO - [2023-12-03 21:25:47,457] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:25:47,473] {logging_mixin.py:115} INFO - [2023-12-03 21:25:47,473] {dag.py:2915} INFO - Setting next_dagrun for example_bash_operator to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:25:47,480] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.054 seconds
+[2023-12-03 21:26:21,105] {processor.py:153} INFO - Started process (PID=5397) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:26:21,106] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-12-03 21:26:21,106] {logging_mixin.py:115} INFO - [2023-12-03 21:26:21,106] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:26:21,115] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:26:21,129] {logging_mixin.py:115} INFO - [2023-12-03 21:26:21,129] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:26:21,141] {logging_mixin.py:115} INFO - [2023-12-03 21:26:21,140] {dag.py:2915} INFO - Setting next_dagrun for example_bash_operator to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:26:21,148] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.045 seconds
+[2023-12-03 21:26:53,154] {processor.py:153} INFO - Started process (PID=5447) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:26:53,155] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-12-03 21:26:53,155] {logging_mixin.py:115} INFO - [2023-12-03 21:26:53,155] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:26:53,164] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:26:53,178] {logging_mixin.py:115} INFO - [2023-12-03 21:26:53,178] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:26:53,189] {logging_mixin.py:115} INFO - [2023-12-03 21:26:53,189] {dag.py:2915} INFO - Setting next_dagrun for example_bash_operator to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:26:53,196] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.045 seconds
+[2023-12-03 21:27:24,929] {processor.py:153} INFO - Started process (PID=5481) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:27:24,930] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-12-03 21:27:24,930] {logging_mixin.py:115} INFO - [2023-12-03 21:27:24,930] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:27:24,940] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:27:24,954] {logging_mixin.py:115} INFO - [2023-12-03 21:27:24,954] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:27:24,966] {logging_mixin.py:115} INFO - [2023-12-03 21:27:24,966] {dag.py:2915} INFO - Setting next_dagrun for example_bash_operator to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:27:24,977] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.050 seconds
+[2023-12-03 21:27:58,688] {processor.py:153} INFO - Started process (PID=5546) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:27:58,688] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-12-03 21:27:58,688] {logging_mixin.py:115} INFO - [2023-12-03 21:27:58,688] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:27:58,698] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:27:58,713] {logging_mixin.py:115} INFO - [2023-12-03 21:27:58,713] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:27:58,725] {logging_mixin.py:115} INFO - [2023-12-03 21:27:58,724] {dag.py:2915} INFO - Setting next_dagrun for example_bash_operator to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:27:58,732] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.047 seconds
+[2023-12-03 21:28:31,712] {processor.py:153} INFO - Started process (PID=5586) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:28:31,712] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-12-03 21:28:31,713] {logging_mixin.py:115} INFO - [2023-12-03 21:28:31,713] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:28:31,722] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:28:31,735] {logging_mixin.py:115} INFO - [2023-12-03 21:28:31,735] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:28:31,747] {logging_mixin.py:115} INFO - [2023-12-03 21:28:31,747] {dag.py:2915} INFO - Setting next_dagrun for example_bash_operator to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:28:31,754] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.045 seconds
+[2023-12-03 21:29:04,759] {processor.py:153} INFO - Started process (PID=5626) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:29:04,760] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-12-03 21:29:04,760] {logging_mixin.py:115} INFO - [2023-12-03 21:29:04,760] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:29:04,769] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:29:04,783] {logging_mixin.py:115} INFO - [2023-12-03 21:29:04,783] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:29:04,794] {logging_mixin.py:115} INFO - [2023-12-03 21:29:04,794] {dag.py:2915} INFO - Setting next_dagrun for example_bash_operator to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:29:04,802] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.045 seconds
+[2023-12-03 21:29:36,480] {processor.py:153} INFO - Started process (PID=5665) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:29:36,481] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-12-03 21:29:36,481] {logging_mixin.py:115} INFO - [2023-12-03 21:29:36,481] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:29:36,490] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:29:36,504] {logging_mixin.py:115} INFO - [2023-12-03 21:29:36,504] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:29:36,515] {logging_mixin.py:115} INFO - [2023-12-03 21:29:36,515] {dag.py:2915} INFO - Setting next_dagrun for example_bash_operator to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:29:36,523] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.045 seconds
+[2023-12-03 21:30:09,171] {processor.py:153} INFO - Started process (PID=5704) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:30:09,172] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-12-03 21:30:09,172] {logging_mixin.py:115} INFO - [2023-12-03 21:30:09,172] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:30:09,181] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:30:09,195] {logging_mixin.py:115} INFO - [2023-12-03 21:30:09,195] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:30:09,206] {logging_mixin.py:115} INFO - [2023-12-03 21:30:09,206] {dag.py:2915} INFO - Setting next_dagrun for example_bash_operator to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:30:09,214] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.045 seconds
+[2023-12-03 21:30:40,819] {processor.py:153} INFO - Started process (PID=5747) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:30:40,820] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-12-03 21:30:40,820] {logging_mixin.py:115} INFO - [2023-12-03 21:30:40,820] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:30:40,830] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:30:40,845] {logging_mixin.py:115} INFO - [2023-12-03 21:30:40,845] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:30:40,859] {logging_mixin.py:115} INFO - [2023-12-03 21:30:40,858] {dag.py:2915} INFO - Setting next_dagrun for example_bash_operator to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:30:40,868] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.052 seconds
+[2023-12-03 21:31:13,639] {processor.py:153} INFO - Started process (PID=5781) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:31:13,639] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-12-03 21:31:13,640] {logging_mixin.py:115} INFO - [2023-12-03 21:31:13,640] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:31:13,649] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:31:13,664] {logging_mixin.py:115} INFO - [2023-12-03 21:31:13,664] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:31:13,676] {logging_mixin.py:115} INFO - [2023-12-03 21:31:13,676] {dag.py:2915} INFO - Setting next_dagrun for example_bash_operator to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:31:13,683] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.047 seconds
+[2023-12-03 21:31:46,653] {processor.py:153} INFO - Started process (PID=5815) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:31:46,653] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-12-03 21:31:46,654] {logging_mixin.py:115} INFO - [2023-12-03 21:31:46,654] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:31:46,664] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:31:46,679] {logging_mixin.py:115} INFO - [2023-12-03 21:31:46,679] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:31:46,692] {logging_mixin.py:115} INFO - [2023-12-03 21:31:46,692] {dag.py:2915} INFO - Setting next_dagrun for example_bash_operator to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:31:46,700] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.050 seconds
+[2023-12-03 21:32:18,383] {processor.py:153} INFO - Started process (PID=5849) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:32:18,384] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-12-03 21:32:18,384] {logging_mixin.py:115} INFO - [2023-12-03 21:32:18,384] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:32:18,400] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:32:18,424] {logging_mixin.py:115} INFO - [2023-12-03 21:32:18,424] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:32:18,442] {logging_mixin.py:115} INFO - [2023-12-03 21:32:18,442] {dag.py:2915} INFO - Setting next_dagrun for example_bash_operator to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:32:18,456] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.077 seconds
+[2023-12-03 21:32:53,380] {processor.py:153} INFO - Started process (PID=5887) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:32:53,380] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-12-03 21:32:53,380] {logging_mixin.py:115} INFO - [2023-12-03 21:32:53,380] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:32:53,390] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:32:53,404] {logging_mixin.py:115} INFO - [2023-12-03 21:32:53,404] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:32:53,416] {logging_mixin.py:115} INFO - [2023-12-03 21:32:53,416] {dag.py:2915} INFO - Setting next_dagrun for example_bash_operator to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:32:53,423] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.046 seconds
+[2023-12-03 21:33:24,177] {processor.py:153} INFO - Started process (PID=5921) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:33:24,177] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-12-03 21:33:24,178] {logging_mixin.py:115} INFO - [2023-12-03 21:33:24,178] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:33:24,187] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:33:24,201] {logging_mixin.py:115} INFO - [2023-12-03 21:33:24,200] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:33:24,212] {logging_mixin.py:115} INFO - [2023-12-03 21:33:24,212] {dag.py:2915} INFO - Setting next_dagrun for example_bash_operator to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:33:24,220] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.045 seconds
+[2023-12-03 21:33:57,308] {processor.py:153} INFO - Started process (PID=5955) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:33:57,308] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-12-03 21:33:57,309] {logging_mixin.py:115} INFO - [2023-12-03 21:33:57,309] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:33:57,318] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:33:57,332] {logging_mixin.py:115} INFO - [2023-12-03 21:33:57,332] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:33:57,344] {logging_mixin.py:115} INFO - [2023-12-03 21:33:57,344] {dag.py:2915} INFO - Setting next_dagrun for example_bash_operator to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:33:57,352] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.047 seconds
+[2023-12-03 21:34:30,079] {processor.py:153} INFO - Started process (PID=5993) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:34:30,080] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-12-03 21:34:30,080] {logging_mixin.py:115} INFO - [2023-12-03 21:34:30,080] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:34:30,089] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:34:30,104] {logging_mixin.py:115} INFO - [2023-12-03 21:34:30,104] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:34:30,116] {logging_mixin.py:115} INFO - [2023-12-03 21:34:30,116] {dag.py:2915} INFO - Setting next_dagrun for example_bash_operator to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:34:30,124] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.047 seconds
+[2023-12-03 21:35:01,497] {processor.py:153} INFO - Started process (PID=6029) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:35:01,497] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-12-03 21:35:01,498] {logging_mixin.py:115} INFO - [2023-12-03 21:35:01,498] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:35:01,507] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:35:01,526] {logging_mixin.py:115} INFO - [2023-12-03 21:35:01,526] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:35:01,537] {logging_mixin.py:115} INFO - [2023-12-03 21:35:01,537] {dag.py:2915} INFO - Setting next_dagrun for example_bash_operator to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:35:01,545] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.050 seconds
+[2023-12-03 21:35:35,286] {processor.py:153} INFO - Started process (PID=6072) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:35:35,287] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2023-12-03 21:35:35,287] {logging_mixin.py:115} INFO - [2023-12-03 21:35:35,287] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:35:35,297] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py
+[2023-12-03 21:35:35,312] {logging_mixin.py:115} INFO - [2023-12-03 21:35:35,311] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:35:35,324] {logging_mixin.py:115} INFO - [2023-12-03 21:35:35,323] {dag.py:2915} INFO - Setting next_dagrun for example_bash_operator to 2023-12-02T00:00:00+00:00, run_after=2023-12-03T00:00:00+00:00
+[2023-12-03 21:35:35,332] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py took 0.048 seconds

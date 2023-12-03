@@ -1,0 +1,29 @@
+[2023-12-03 23:08:36,797] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: water_polution.model_preparation manual__2023-12-03T17:38:00.239033+00:00 [queued]>
+[2023-12-03 23:08:36,816] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: water_polution.model_preparation manual__2023-12-03T17:38:00.239033+00:00 [queued]>
+[2023-12-03 23:08:36,816] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2023-12-03 23:08:36,816] {taskinstance.py:1357} INFO - Starting attempt 4 of 6
+[2023-12-03 23:08:36,816] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2023-12-03 23:08:36,837] {taskinstance.py:1377} INFO - Executing <Task(BashOperator): model_preparation> on 2023-12-03 17:38:00.239033+00:00
+[2023-12-03 23:08:36,840] {standard_task_runner.py:52} INFO - Started process 22857 to run task
+[2023-12-03 23:08:36,852] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'water_polution', 'model_preparation', 'manual__2023-12-03T17:38:00.239033+00:00', '--job-id', '21', '--raw', '--subdir', 'DAGS_FOLDER/water_polution.py', '--cfg-path', '/tmp/tmp8lwob9hf', '--error-file', '/tmp/tmpv97qyk5g']
+[2023-12-03 23:08:36,854] {standard_task_runner.py:80} INFO - Job 21: Subtask model_preparation
+[2023-12-03 23:08:36,922] {task_command.py:369} INFO - Running <TaskInstance: water_polution.model_preparation manual__2023-12-03T17:38:00.239033+00:00 [running]> on host MLops.myguest.virtualbox.org
+[2023-12-03 23:08:36,993] {taskinstance.py:1569} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=Admin
+AIRFLOW_CTX_DAG_ID=water_polution
+AIRFLOW_CTX_TASK_ID=model_preparation
+AIRFLOW_CTX_EXECUTION_DATE=2023-12-03T17:38:00.239033+00:00
+AIRFLOW_CTX_TRY_NUMBER=4
+AIRFLOW_CTX_DAG_RUN_ID=manual__2023-12-03T17:38:00.239033+00:00
+[2023-12-03 23:08:36,998] {subprocess.py:62} INFO - Tmp dir root location: 
+ /tmp
+[2023-12-03 23:08:36,999] {subprocess.py:74} INFO - Running command: ['bash', '-c', 'python3 /home/antosha/project/scripts/model_preparation.py']
+[2023-12-03 23:08:37,015] {subprocess.py:85} INFO - Output:
+[2023-12-03 23:08:39,033] {subprocess.py:92} INFO - /home/antosha/venvs/practice_3/lib/python3.10/site-packages/sklearn/utils/validation.py:1183: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+[2023-12-03 23:08:39,034] {subprocess.py:92} INFO -   y = column_or_1d(y, warn=True)
+[2023-12-03 23:08:39,706] {subprocess.py:96} INFO - Command exited with return code 0
+[2023-12-03 23:08:39,738] {taskinstance.py:1395} INFO - Marking task as SUCCESS. dag_id=water_polution, task_id=model_preparation, execution_date=20231203T173800, start_date=20231203T180836, end_date=20231203T180839
+[2023-12-03 23:08:39,785] {local_task_job.py:156} INFO - Task exited with return code 0
+[2023-12-03 23:08:39,821] {local_task_job.py:273} INFO - 1 downstream tasks scheduled from follow-on schedule check

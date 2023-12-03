@@ -1,0 +1,165 @@
+[2023-12-03 21:23:52,466] {processor.py:153} INFO - Started process (PID=4540) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:23:52,469] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-12-03 21:23:52,469] {logging_mixin.py:115} INFO - [2023-12-03 21:23:52,469] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:23:52,474] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:23:52,523] {logging_mixin.py:115} INFO - [2023-12-03 21:23:52,523] {manager.py:508} INFO - Created Permission View: can delete on DAG:tutorial
+[2023-12-03 21:23:52,529] {logging_mixin.py:115} INFO - [2023-12-03 21:23:52,528] {manager.py:508} INFO - Created Permission View: can edit on DAG:tutorial
+[2023-12-03 21:23:52,533] {logging_mixin.py:115} INFO - [2023-12-03 21:23:52,533] {manager.py:508} INFO - Created Permission View: can read on DAG:tutorial
+[2023-12-03 21:23:52,533] {logging_mixin.py:115} INFO - [2023-12-03 21:23:52,533] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:23:52,542] {logging_mixin.py:115} INFO - [2023-12-03 21:23:52,542] {dag.py:2390} INFO - Creating ORM DAG for tutorial
+[2023-12-03 21:23:52,548] {logging_mixin.py:115} INFO - [2023-12-03 21:23:52,548] {dag.py:2915} INFO - Setting next_dagrun for tutorial to 2023-12-02T16:23:52.547898+00:00, run_after=2023-12-03T16:23:52.547898+00:00
+[2023-12-03 21:23:52,556] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.093 seconds
+[2023-12-03 21:24:28,181] {processor.py:153} INFO - Started process (PID=5267) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:24:28,181] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-12-03 21:24:28,182] {logging_mixin.py:115} INFO - [2023-12-03 21:24:28,182] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:24:28,186] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:24:28,199] {logging_mixin.py:115} INFO - [2023-12-03 21:24:28,198] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:24:28,211] {logging_mixin.py:115} INFO - [2023-12-03 21:24:28,211] {dag.py:2915} INFO - Setting next_dagrun for tutorial to 2023-12-02T16:24:28.211391+00:00, run_after=2023-12-03T16:24:28.211391+00:00
+[2023-12-03 21:24:28,219] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.040 seconds
+[2023-12-03 21:25:00,142] {processor.py:153} INFO - Started process (PID=5306) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:25:00,143] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-12-03 21:25:00,143] {logging_mixin.py:115} INFO - [2023-12-03 21:25:00,143] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:25:00,148] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:25:00,160] {logging_mixin.py:115} INFO - [2023-12-03 21:25:00,160] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:25:00,173] {logging_mixin.py:115} INFO - [2023-12-03 21:25:00,173] {dag.py:2915} INFO - Setting next_dagrun for tutorial to 2023-12-02T16:25:00.173095+00:00, run_after=2023-12-03T16:25:00.173095+00:00
+[2023-12-03 21:25:00,181] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.041 seconds
+[2023-12-03 21:25:33,651] {processor.py:153} INFO - Started process (PID=5347) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:25:33,651] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-12-03 21:25:33,651] {logging_mixin.py:115} INFO - [2023-12-03 21:25:33,651] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:25:33,660] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:25:33,675] {logging_mixin.py:115} INFO - [2023-12-03 21:25:33,675] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:25:33,688] {logging_mixin.py:115} INFO - [2023-12-03 21:25:33,688] {dag.py:2915} INFO - Setting next_dagrun for tutorial to 2023-12-02T16:25:33.688439+00:00, run_after=2023-12-03T16:25:33.688439+00:00
+[2023-12-03 21:25:33,696] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.048 seconds
+[2023-12-03 21:26:05,086] {processor.py:153} INFO - Started process (PID=5381) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:26:05,087] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-12-03 21:26:05,087] {logging_mixin.py:115} INFO - [2023-12-03 21:26:05,087] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:26:05,092] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:26:05,104] {logging_mixin.py:115} INFO - [2023-12-03 21:26:05,104] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:26:05,117] {logging_mixin.py:115} INFO - [2023-12-03 21:26:05,117] {dag.py:2915} INFO - Setting next_dagrun for tutorial to 2023-12-02T16:26:05.117493+00:00, run_after=2023-12-03T16:26:05.117493+00:00
+[2023-12-03 21:26:05,125] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.041 seconds
+[2023-12-03 21:26:38,755] {processor.py:153} INFO - Started process (PID=5431) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:26:38,756] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-12-03 21:26:38,756] {logging_mixin.py:115} INFO - [2023-12-03 21:26:38,756] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:26:38,761] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:26:38,773] {logging_mixin.py:115} INFO - [2023-12-03 21:26:38,773] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:26:38,786] {logging_mixin.py:115} INFO - [2023-12-03 21:26:38,786] {dag.py:2915} INFO - Setting next_dagrun for tutorial to 2023-12-02T16:26:38.786506+00:00, run_after=2023-12-03T16:26:38.786506+00:00
+[2023-12-03 21:26:38,794] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.041 seconds
+[2023-12-03 21:27:09,302] {processor.py:153} INFO - Started process (PID=5465) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:27:09,302] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-12-03 21:27:09,303] {logging_mixin.py:115} INFO - [2023-12-03 21:27:09,302] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:27:09,307] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:27:09,328] {logging_mixin.py:115} INFO - [2023-12-03 21:27:09,328] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:27:09,343] {logging_mixin.py:115} INFO - [2023-12-03 21:27:09,342] {dag.py:2915} INFO - Setting next_dagrun for tutorial to 2023-12-02T16:27:09.342706+00:00, run_after=2023-12-03T16:27:09.342706+00:00
+[2023-12-03 21:27:09,350] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.051 seconds
+[2023-12-03 21:27:42,935] {processor.py:153} INFO - Started process (PID=5517) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:27:42,935] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-12-03 21:27:42,936] {logging_mixin.py:115} INFO - [2023-12-03 21:27:42,936] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:27:42,940] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:27:42,953] {logging_mixin.py:115} INFO - [2023-12-03 21:27:42,952] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:27:42,965] {logging_mixin.py:115} INFO - [2023-12-03 21:27:42,965] {dag.py:2915} INFO - Setting next_dagrun for tutorial to 2023-12-02T16:27:42.965236+00:00, run_after=2023-12-03T16:27:42.965236+00:00
+[2023-12-03 21:27:42,976] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.043 seconds
+[2023-12-03 21:28:16,689] {processor.py:153} INFO - Started process (PID=5569) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:28:16,690] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-12-03 21:28:16,690] {logging_mixin.py:115} INFO - [2023-12-03 21:28:16,690] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:28:16,695] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:28:16,707] {logging_mixin.py:115} INFO - [2023-12-03 21:28:16,707] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:28:16,719] {logging_mixin.py:115} INFO - [2023-12-03 21:28:16,719] {dag.py:2915} INFO - Setting next_dagrun for tutorial to 2023-12-02T16:28:16.719668+00:00, run_after=2023-12-03T16:28:16.719668+00:00
+[2023-12-03 21:28:16,727] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.040 seconds
+[2023-12-03 21:28:49,226] {processor.py:153} INFO - Started process (PID=5604) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:28:49,226] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-12-03 21:28:49,226] {logging_mixin.py:115} INFO - [2023-12-03 21:28:49,226] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:28:49,231] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:28:49,244] {logging_mixin.py:115} INFO - [2023-12-03 21:28:49,244] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:28:49,257] {logging_mixin.py:115} INFO - [2023-12-03 21:28:49,257] {dag.py:2915} INFO - Setting next_dagrun for tutorial to 2023-12-02T16:28:49.257481+00:00, run_after=2023-12-03T16:28:49.257481+00:00
+[2023-12-03 21:28:49,265] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.042 seconds
+[2023-12-03 21:29:21,876] {processor.py:153} INFO - Started process (PID=5648) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:29:21,877] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-12-03 21:29:21,877] {logging_mixin.py:115} INFO - [2023-12-03 21:29:21,877] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:29:21,882] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:29:21,895] {logging_mixin.py:115} INFO - [2023-12-03 21:29:21,895] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:29:21,908] {logging_mixin.py:115} INFO - [2023-12-03 21:29:21,908] {dag.py:2915} INFO - Setting next_dagrun for tutorial to 2023-12-02T16:29:21.908218+00:00, run_after=2023-12-03T16:29:21.908218+00:00
+[2023-12-03 21:29:21,916] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.043 seconds
+[2023-12-03 21:29:53,792] {processor.py:153} INFO - Started process (PID=5683) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:29:53,792] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-12-03 21:29:53,792] {logging_mixin.py:115} INFO - [2023-12-03 21:29:53,792] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:29:53,797] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:29:53,809] {logging_mixin.py:115} INFO - [2023-12-03 21:29:53,809] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:29:53,822] {logging_mixin.py:115} INFO - [2023-12-03 21:29:53,822] {dag.py:2915} INFO - Setting next_dagrun for tutorial to 2023-12-02T16:29:53.822212+00:00, run_after=2023-12-03T16:29:53.822212+00:00
+[2023-12-03 21:29:53,830] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.041 seconds
+[2023-12-03 21:30:25,689] {processor.py:153} INFO - Started process (PID=5725) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:30:25,690] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-12-03 21:30:25,690] {logging_mixin.py:115} INFO - [2023-12-03 21:30:25,690] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:30:25,695] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:30:25,707] {logging_mixin.py:115} INFO - [2023-12-03 21:30:25,707] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:30:25,719] {logging_mixin.py:115} INFO - [2023-12-03 21:30:25,719] {dag.py:2915} INFO - Setting next_dagrun for tutorial to 2023-12-02T16:30:25.719569+00:00, run_after=2023-12-03T16:30:25.719569+00:00
+[2023-12-03 21:30:25,727] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.040 seconds
+[2023-12-03 21:30:58,241] {processor.py:153} INFO - Started process (PID=5765) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:30:58,242] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-12-03 21:30:58,242] {logging_mixin.py:115} INFO - [2023-12-03 21:30:58,242] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:30:58,247] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:30:58,259] {logging_mixin.py:115} INFO - [2023-12-03 21:30:58,259] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:30:58,272] {logging_mixin.py:115} INFO - [2023-12-03 21:30:58,272] {dag.py:2915} INFO - Setting next_dagrun for tutorial to 2023-12-02T16:30:58.272424+00:00, run_after=2023-12-03T16:30:58.272424+00:00
+[2023-12-03 21:30:58,280] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.042 seconds
+[2023-12-03 21:31:31,254] {processor.py:153} INFO - Started process (PID=5799) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:31:31,254] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-12-03 21:31:31,254] {logging_mixin.py:115} INFO - [2023-12-03 21:31:31,254] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:31:31,259] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:31:31,272] {logging_mixin.py:115} INFO - [2023-12-03 21:31:31,272] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:31:31,285] {logging_mixin.py:115} INFO - [2023-12-03 21:31:31,285] {dag.py:2915} INFO - Setting next_dagrun for tutorial to 2023-12-02T16:31:31.284829+00:00, run_after=2023-12-03T16:31:31.284829+00:00
+[2023-12-03 21:31:31,293] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.041 seconds
+[2023-12-03 21:32:03,176] {processor.py:153} INFO - Started process (PID=5833) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:32:03,176] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-12-03 21:32:03,177] {logging_mixin.py:115} INFO - [2023-12-03 21:32:03,177] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:32:03,182] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:32:03,194] {logging_mixin.py:115} INFO - [2023-12-03 21:32:03,194] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:32:03,209] {logging_mixin.py:115} INFO - [2023-12-03 21:32:03,209] {dag.py:2915} INFO - Setting next_dagrun for tutorial to 2023-12-02T16:32:03.208988+00:00, run_after=2023-12-03T16:32:03.208988+00:00
+[2023-12-03 21:32:03,216] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.043 seconds
+[2023-12-03 21:32:36,850] {processor.py:153} INFO - Started process (PID=5868) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:32:36,850] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-12-03 21:32:36,851] {logging_mixin.py:115} INFO - [2023-12-03 21:32:36,851] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:32:36,855] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:32:36,868] {logging_mixin.py:115} INFO - [2023-12-03 21:32:36,868] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:32:36,881] {logging_mixin.py:115} INFO - [2023-12-03 21:32:36,881] {dag.py:2915} INFO - Setting next_dagrun for tutorial to 2023-12-02T16:32:36.880805+00:00, run_after=2023-12-03T16:32:36.880805+00:00
+[2023-12-03 21:32:36,888] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.041 seconds
+[2023-12-03 21:33:10,257] {processor.py:153} INFO - Started process (PID=5905) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:33:10,258] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-12-03 21:33:10,258] {logging_mixin.py:115} INFO - [2023-12-03 21:33:10,258] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:33:10,263] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:33:10,276] {logging_mixin.py:115} INFO - [2023-12-03 21:33:10,276] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:33:10,289] {logging_mixin.py:115} INFO - [2023-12-03 21:33:10,289] {dag.py:2915} INFO - Setting next_dagrun for tutorial to 2023-12-02T16:33:10.288859+00:00, run_after=2023-12-03T16:33:10.288859+00:00
+[2023-12-03 21:33:10,296] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.041 seconds
+[2023-12-03 21:33:42,181] {processor.py:153} INFO - Started process (PID=5939) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:33:42,181] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-12-03 21:33:42,182] {logging_mixin.py:115} INFO - [2023-12-03 21:33:42,182] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:33:42,187] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:33:42,199] {logging_mixin.py:115} INFO - [2023-12-03 21:33:42,199] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:33:42,212] {logging_mixin.py:115} INFO - [2023-12-03 21:33:42,212] {dag.py:2915} INFO - Setting next_dagrun for tutorial to 2023-12-02T16:33:42.212410+00:00, run_after=2023-12-03T16:33:42.212410+00:00
+[2023-12-03 21:33:42,220] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.042 seconds
+[2023-12-03 21:34:14,274] {processor.py:153} INFO - Started process (PID=5976) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:34:14,274] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-12-03 21:34:14,275] {logging_mixin.py:115} INFO - [2023-12-03 21:34:14,275] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:34:14,279] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:34:14,292] {logging_mixin.py:115} INFO - [2023-12-03 21:34:14,292] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:34:14,306] {logging_mixin.py:115} INFO - [2023-12-03 21:34:14,306] {dag.py:2915} INFO - Setting next_dagrun for tutorial to 2023-12-02T16:34:14.305956+00:00, run_after=2023-12-03T16:34:14.305956+00:00
+[2023-12-03 21:34:14,314] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.043 seconds
+[2023-12-03 21:34:47,216] {processor.py:153} INFO - Started process (PID=6011) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:34:47,217] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-12-03 21:34:47,217] {logging_mixin.py:115} INFO - [2023-12-03 21:34:47,217] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:34:47,222] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:34:47,234] {logging_mixin.py:115} INFO - [2023-12-03 21:34:47,234] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:34:47,247] {logging_mixin.py:115} INFO - [2023-12-03 21:34:47,247] {dag.py:2915} INFO - Setting next_dagrun for tutorial to 2023-12-02T16:34:47.247311+00:00, run_after=2023-12-03T16:34:47.247311+00:00
+[2023-12-03 21:34:47,255] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.041 seconds
+[2023-12-03 21:35:19,142] {processor.py:153} INFO - Started process (PID=6056) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:35:19,143] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-12-03 21:35:19,143] {logging_mixin.py:115} INFO - [2023-12-03 21:35:19,143] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:35:19,148] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:35:19,162] {logging_mixin.py:115} INFO - [2023-12-03 21:35:19,162] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:35:19,175] {logging_mixin.py:115} INFO - [2023-12-03 21:35:19,175] {dag.py:2915} INFO - Setting next_dagrun for tutorial to 2023-12-02T16:35:19.175418+00:00, run_after=2023-12-03T16:35:19.175418+00:00
+[2023-12-03 21:35:19,183] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.043 seconds
+[2023-12-03 21:35:53,407] {processor.py:153} INFO - Started process (PID=6091) to work on /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:35:53,410] {processor.py:641} INFO - Processing file /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-12-03 21:35:53,411] {logging_mixin.py:115} INFO - [2023-12-03 21:35:53,411] {dagbag.py:507} INFO - Filling up the DagBag from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:35:53,417] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-12-03 21:35:53,440] {logging_mixin.py:115} INFO - [2023-12-03 21:35:53,440] {dag.py:2371} INFO - Sync 1 DAGs
+[2023-12-03 21:35:53,460] {logging_mixin.py:115} INFO - [2023-12-03 21:35:53,460] {dag.py:2915} INFO - Setting next_dagrun for tutorial to 2023-12-02T16:35:53.460657+00:00, run_after=2023-12-03T16:35:53.460657+00:00
+[2023-12-03 21:35:53,476] {processor.py:161} INFO - Processing /home/antosha/venvs/practice_3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.078 seconds
