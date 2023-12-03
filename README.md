@@ -1,4 +1,4 @@
-# mlops3
+![image](https://github.com/Alexadr45/mlops3/assets/115409750/7aa3902d-1c76-48f4-8e23-e3eabb45409c)# mlops3
 
 - Определить какой-нибудь внешний источник получения данных и способ получения этих данных (http, curl, wget, API, SQL, SparQL, ...) 
 - Поставить задачу для алгоритма машинного обучения, выбрать модель и метрику 
@@ -16,9 +16,13 @@
 Задача заключается в сборе данных и их обработке, а также последующем обучении модели ML. Airflow используется для автоматизации операций, а MLFlow для мониторинга процессов.
 
 ## Airflow
+Пайплайн в airflow
+![image](https://github.com/Alexadr45/mlops3/assets/115409750/a8daf26d-4f0b-444f-997a-812811dbb0b3)
 ![image](https://github.com/Alexadr45/mlops3/assets/115409750/138989e9-0689-4d5d-9273-bd983b94facf)
 
-## Mlflow
-![image](https://github.com/Alexadr45/mlops3/assets/115409750/90a253e8-30fd-472f-9cf7-4af719c41dd9)
 
+## Mlflow
+Список экспериментов в mlflow
+![image](https://github.com/Alexadr45/mlops3/assets/115409750/90a253e8-30fd-472f-9cf7-4af719c41dd9)
+Результаты эксперимента model_testing
 ![image](https://github.com/Alexadr45/mlops3/assets/115409750/4141ba95-d5c3-43b2-8472-a3b285c03de2)
